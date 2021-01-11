@@ -1,0 +1,13 @@
+<announcements>
+	<announcement>SimpleRisk version 20201123-001 was released as a fix for a number of bugs that were discovered since the 20201005-001 release.</announcement>
+	<announcement>The new Organizational Hierarchy Extra adds the ability to put teams under different Business Units and filter teams, users, and more.</announcement>
+	<announcement>The new Incident Management Extra adds incident response capabilities into SimpleRisk</announcement>
+	<announcement>The new Advanced Search Extra gives you the ability to use the search function at the top right of SimpleRisk to search for text-based risk fields.</announcement>
+	<announcement>Ever wanted to create your own custom fields in SimpleRisk, remove existing fields, or change the page layouts?  Check out our Customization Extra!</announcement>
+	<announcement>Want to create your own risk assessments and send them out via e-mail?  Purchase the Risk Assessment Extra today!</announcement>
+	<announcement>Having trouble getting SimpleRisk working?  Tired of upgrading to keep up with the latest releases?  Check out SimpleRisk Hosted today to get your SimpleRisk as a Service!</announcement>
+	<announcement>Want to import risks via CSV files from your auditors or assessment tools or export risk data for further analytics?  Purchase the Import-Export Extra today!</announcement>
+	<announcement>Want to be able to authenticate to SimpleRisk via LDAP or add multi-factor authentication with Duo Security?  Purchase the Custom Authentication Extra today!</announcement>
+	<announcement>Want to separate users who can see risks based on the assigned teams?  Purchase the Team Separation Extra today!</announcement>
+	<announcement>Want to be e-mailed when risks are updated or due for a review?  Purchase the Notification Extra today!</announcement>
+</announcements>
