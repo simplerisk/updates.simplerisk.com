@@ -6,6 +6,14 @@
         <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>true</release_notes>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>06e32ad29b3fc802b13cc7a2828173ac</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>9669a9bf4723c163b762cf57dffdbcb0</virtualbox_md5>
+			</virtualbox>
+        </virtual_machines>
     </release>
 	<release version="20210121-001">
 		<release_date>20210121</release_date>
@@ -14,6 +22,7 @@
 		<installer_md5>cf9ed89a2a3dc25b9d45690ebf6ce0de</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20201123-001">
 		<release_date>20201123</release_date>
@@ -22,6 +31,7 @@
 		<installer_md5>3d82a18d56a337ffbf6792973227a8ec</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20201106-001">
 		<release_date>20201106</release_date>
@@ -30,6 +40,7 @@
 		<installer_md5>f638fe2e23215b1d708b2907805d94ec</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20201005-001">
 		<release_date>20201005</release_date>
@@ -38,6 +49,7 @@
 		<installer_md5>3de780fedce85d1a72d21ae9fd3ea2a7</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20200711-001">
 		<release_date>20200711</release_date>
@@ -46,6 +58,7 @@
 		<installer_md5>143bb2c8bb809006875cb3cad60e2069</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="220200401-001">
 		<release_date>220200401</release_date>
@@ -54,6 +67,7 @@
 		<installer_md5>9b30d276492d3bf0dfe1d9a879828930</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20200328-001">
 		<release_date>20200328</release_date>
@@ -62,6 +76,7 @@
 		<installer_md5>292c0af76a05610ba7b5bbd7417d0a5c</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20191130-001">
 		<release_date>20191130</release_date>
@@ -70,6 +85,7 @@
 		<installer_md5>91bfb7f0c9005d34ffb37565a61dc860</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20190930-001">
 		<release_date>20190930</release_date>
@@ -78,6 +94,7 @@
 		<installer_md5>5bc4edd1f872809fb04644cfb232fb11</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20190630-001">
 		<release_date>20190630</release_date>
@@ -86,6 +103,7 @@
 		<installer_md5>45d0b9b27ebde463e799ce13cab8b645</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20190331-001">
 		<release_date>20190331</release_date>
@@ -94,6 +112,7 @@
 		<installer_md5>7ca66a078ae9564eec36e4d4f74dcc7f</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20190210-001">
 		<release_date>20190210</release_date>
@@ -102,6 +121,7 @@
 		<installer_md5>35931270de2fd78fa3c2c2bd894afc8e</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20190105-001">
 		<release_date>20190105</release_date>
@@ -110,6 +130,7 @@
 		<installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20181103-001">
 		<release_date>20181103</release_date>
@@ -118,6 +139,7 @@
 		<installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180916-001">
 		<release_date>20180916</release_date>
@@ -126,6 +148,7 @@
 		<installer_md5>0b58ab0a6705affb325dcb9e1ee65e7e</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180830-001">
 		<release_date>20180830</release_date>
@@ -134,6 +157,7 @@
 		<installer_md5>5dcba14e7e59d1d51b8a7952262cc076</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180814-001">
 		<release_date>20180814</release_date>
@@ -142,6 +166,7 @@
 		<installer_md5>e2b25ec67fd9eda08bfb9aaba9275ffa</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180812-001">
 		<release_date>20180812</release_date>
@@ -150,6 +175,7 @@
 		<installer_md5>96b6fad1b461aae97137639a5d24284b</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180627-001">
 		<release_date>20180627</release_date>
@@ -158,6 +184,7 @@
 		<installer_md5>c2285ca162df1c607317d0f3da16440d</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180527-001">
 		<release_date>20180527</release_date>
@@ -166,6 +193,7 @@
 		<installer_md5>571a479dacf4528042b1c71034fb2128</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180301-001">
 		<release_date>20180301</release_date>
@@ -174,6 +202,7 @@
 		<installer_md5>1cb8d9cb98c0c7457017eecc85d38a4d</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20180104-001">
 		<release_date>20180104</release_date>
@@ -182,6 +211,7 @@
 		<installer_md5>b6bbf6460b23aa9d659826bf75e47bf2</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170724-001">
 		<release_date>20170724</release_date>
@@ -190,6 +220,7 @@
 		<installer_md5>734c87815adda7878e3084758f7ebe3e</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170723-001">
 		<release_date>20170723</release_date>
@@ -198,6 +229,7 @@
 		<installer_md5>eed21bd826a9be97bcd4235599551ba2</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170614-001">
 		<release_date>20170614</release_date>
@@ -206,6 +238,7 @@
 		<installer_md5>ec3cc27f1de20909d4dd6f0ab78c5105</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170416-001">
 		<release_date>20170416</release_date>
@@ -214,6 +247,7 @@
 		<installer_md5>cf1b6333dc8d5209dc18572b6e8a7463</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170312-001">
 		<release_date>20170312</release_date>
@@ -222,6 +256,7 @@
 		<installer_md5>289e1b09108505705460298addff0478</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170108-001">
 		<release_date>20170108</release_date>
@@ -230,6 +265,7 @@
 		<installer_md5>71788eefadb06224bc321b9fe0961b8b</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20170102-001">
 		<release_date>20170102</release_date>
@@ -238,6 +274,7 @@
 		<installer_md5>ac1cc64974858bbf6917d9530a50d46c</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20161122-001">
 		<release_date>20161122</release_date>
@@ -246,6 +283,7 @@
 		<installer_md5>391743d663730978de24efcd7df8b334</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20161030-001">
 		<release_date>20161030</release_date>
@@ -254,6 +292,7 @@
 		<installer_md5>c5933e3a8978445a232e136b969a35c0</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20161023-001">
 		<release_date>20161023</release_date>
@@ -262,6 +301,7 @@
 		<installer_md5>74bfd9657f0e763ab7ccbbb61d4cefed</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20160612-001">
 		<release_date>20160612</release_date>
@@ -270,6 +310,7 @@
 		<installer_md5>0a8881bd6ed29039988a3f3cc148f0fe</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20160331-001">
 		<release_date>20160331</release_date>
@@ -278,6 +319,7 @@
 		<installer_md5>2a5273d015e311823f12976600d31ad4</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20160124-001">
 		<release_date>20160124</release_date>
@@ -286,6 +328,7 @@
 		<installer_md5>8e92ae5e070e259933d0779a497b9779</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20151219-001">
 		<release_date>20151219</release_date>
@@ -294,6 +337,7 @@
 		<installer_md5>577db78bb06d8861c3f0f2e90e3824d2</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20151108-001">
 		<release_date>20151108</release_date>
@@ -306,6 +350,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150930-001">
 		<release_date>20150930</release_date>
@@ -318,6 +363,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150928-001">
 		<release_date>20150928</release_date>
@@ -330,6 +376,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150920-001">
 		<release_date>20150920</release_date>
@@ -342,6 +389,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150729-001">
 		<release_date>20150729</release_date>
@@ -354,6 +402,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150531-001">
 		<release_date>20150531</release_date>
@@ -366,6 +415,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150321-001">
 		<release_date>20150321</release_date>
@@ -378,6 +428,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20150202-001">
 		<release_date>20150202</release_date>
@@ -390,6 +441,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20141214-001">
 		<release_date>20141214</release_date>
@@ -402,6 +454,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20141129-001">
 		<release_date>20141129</release_date>
@@ -414,6 +467,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20141013-001">
 		<release_date>20141013</release_date>
@@ -425,6 +479,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20140728-001">
 		<release_date>20140728</release_date>
@@ -436,6 +491,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20140526-001">
 		<release_date>20140526</release_date>
@@ -447,6 +503,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20140413-001">
 		<release_date>20140413</release_date>
@@ -458,6 +515,7 @@
 			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20140224-001">
 		<release_date>20140224</release_date>
@@ -467,6 +525,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20131231-001">
 		<release_date>20131231</release_date>
@@ -476,6 +535,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20131117-001">
 		<release_date>20131117</release_date>
@@ -485,6 +545,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20131024-001">
 		<release_date>20131024</release_date>
@@ -494,6 +555,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130929-001">
 		<release_date>20130929</release_date>
@@ -503,6 +565,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130916-001">
 		<release_date>20130916</release_date>
@@ -512,6 +575,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130915-001">
 		<release_date>20130915</release_date>
@@ -521,6 +585,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130827-001">
 		<release_date>20130827</release_date>
@@ -530,6 +595,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130718-001">
 		<release_date>20130718</release_date>
@@ -539,6 +605,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130501-001">
 		<release_date>20130501</release_date>
@@ -548,6 +615,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130415-001">
 		<release_date>20130415</release_date>
@@ -557,6 +625,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>true</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130319-001">
 		<release_date>20130319</release_date>
@@ -566,6 +635,7 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>false</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20130315-001">
 		<release_date>20130315</release_date>
@@ -575,5 +645,6 @@
 			<en>true</en>
 		</database_schema>
 		<release_notes>false</release_notes>
+		<virtual_machines>false</virtual_machines>
 	</release>
 </releases>
