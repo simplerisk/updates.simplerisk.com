@@ -1,12 +1,12 @@
 <releases>
-	<release>
-		<release_date>20210305</release_date>
-		<release_number>001</release_number>
-		<bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
-		<installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
+    <release>
+        <release_date>20210305</release_date>
+        <release_number>001</release_number>
+        <bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
+        <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-	</release>
+    </release>
         <release>
                 <release_date>20210121</release_date>
                 <release_number>001</release_number>
@@ -292,7 +292,7 @@
                 <release_number>001</release_number>
                 <bundle_md5>2dfd47e3582175293e369aa47f985b1a</bundle_md5>
                 <installer_md5>577db78bb06d8861c3f0f2e90e3824d2</installer_md5>
-		<database_schema>false</database_schema>
+        <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
         </release>
         <release>
@@ -300,11 +300,11 @@
                 <release_number>001</release_number>
                 <bundle_md5>72d3b018b30c58f21e6c212eb0beeb9d</bundle_md5>
                 <installer_md5>1652afd204b09dfdd84e33fd04a7469f</installer_md5>
-		<database_schema>
-			<en>true</en>
-			<bp>true</bp>
-			<es>true</es>
-		</database_schema>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
                 <release_notes>true</release_notes>
         </release>
         <release>
@@ -556,7 +556,7 @@
                 <database_schema>
                         <en>true</en>
                 </database_schema>
-		<release_notes>true</release_notes>
+        <release_notes>true</release_notes>
         </release>
         <release>
                 <release_date>20130319</release_date>
@@ -565,7 +565,7 @@
                 <database_schema>
                         <en>true</en>
                 </database_schema>
-		<release_notes>false</release_notes>
+        <release_notes>false</release_notes>
         </release>
         <release>
                 <release_date>20130315</release_date>
