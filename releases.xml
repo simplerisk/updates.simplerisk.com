@@ -8,10 +8,10 @@
         <release_notes>true</release_notes>
         <virtual_machines>
             <vmware>
-                <vmware_md5>06e32ad29b3fc802b13cc7a2828173ac</vmware_md5>
+                <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
             </vmware>
             <virtualbox>
-                <virtualbox_md5>9669a9bf4723c163b762cf57dffdbcb0</virtualbox_md5>
+                <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
 			</virtualbox>
         </virtual_machines>
     </release>
