@@ -1,5 +1,5 @@
 <announcements>
-        <announcement>SimpleRisk version 20210305-001 was released providing security fixes, bug fixes, the ability to designate Current and Desired Control Maturity, a new Threat Catalog, a revised OWASP Risk Scoring methodology and a new Control Gap Analysis report.</announcement>
+	<announcement>SimpleRisk version 20210625 was released providing security fixes, bug fixes, backup functionality, enhanced Contributing Risk scoring functionality, an updated Dynamic Risk Report and context-aware help pages.</announcement>
 	<announcement>The new Organizational Hierarchy Extra adds the ability to put teams under different Business Units and filter teams, users, and more.</announcement>
 	<announcement>The new Incident Management Extra adds incident response capabilities into SimpleRisk</announcement>
 	<announcement>The new Advanced Search Extra gives you the ability to use the search function at the top right of SimpleRisk to search for text-based risk fields.</announcement>
