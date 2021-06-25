@@ -1,20 +1,30 @@
 <releases>
-    <release version="20210305-001">
-        <release_date>20210305</release_date>
-        <release_number>001</release_number>
-        <bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
-        <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
-        <database_schema>false</database_schema>
-        <release_notes>true</release_notes>
-        <virtual_machines>
-            <vmware>
-                <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
-            </vmware>
-            <virtualbox>
-                <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
+	<release version="20210625-001">
+                <release_date>20210625</release_date>
+                <release_number>001</release_number>
+                <bundle_md5></bundle_md5>
+                <installer_md5></installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <virtual_machines>
+		</virtual_machines>
+	</release>
+	<release version="20210305-001">
+	        <release_date>20210305</release_date>
+	        <release_number>001</release_number>
+	        <bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
+	        <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
+	        <database_schema>false</database_schema>
+	        <release_notes>true</release_notes>
+	        <virtual_machines>
+			<vmware>
+				<vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
+			</vmware>
+			<virtualbox>
+				<virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
 			</virtualbox>
-        </virtual_machines>
-    </release>
+	        </virtual_machines>
+	</release>
 	<release version="20210121-001">
 		<release_date>20210121</release_date>
 		<release_number>001</release_number>
