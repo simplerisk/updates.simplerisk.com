@@ -100,6 +100,9 @@
 		</extra>
 	</assessments>
 	<authentication>
+		<extra version="20210704-001">
+                        <appversion>20210630-001</appversion>
+                </extra>
                 <extra version="20210630-001">
                         <appversion>20210630-001</appversion>
                 </extra>
