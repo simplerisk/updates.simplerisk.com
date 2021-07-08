@@ -78,8 +78,8 @@
 		<release_notes>true</release_notes>
 		<virtual_machines>false</virtual_machines>
 	</release>
-	<release version="220200401-001">
-		<release_date>220200401</release_date>
+	<release version="20200401-001">
+		<release_date>20200401</release_date>
 		<release_number>001</release_number>
 		<bundle_md5>704b86c9376e51ae57629017e36e0393</bundle_md5>
 		<installer_md5>9b30d276492d3bf0dfe1d9a879828930</installer_md5>
