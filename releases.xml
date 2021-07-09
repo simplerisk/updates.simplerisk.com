@@ -527,7 +527,6 @@
 		<database_schema>
 			<en>true</en>
 			<bp>true</bp>
-			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
 		<virtual_machines>false</virtual_machines>
@@ -539,7 +538,6 @@
 		<database_schema>
 			<en>true</en>
 			<bp>true</bp>
-			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
 		<virtual_machines>false</virtual_machines>
