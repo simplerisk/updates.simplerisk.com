@@ -1,4 +1,13 @@
 <releases>
+        <release version="20210713-001">
+                <release_date>20210713</release_date>
+                <release_number>001</release_number>
+                <bundle_md5>d4c0f82383c7195ebe9ae93e1b0c2954</bundle_md5>
+                <installer_md5>cb63a3bf3d39965b4c9127ed2a5fd401</installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <virtual_machines>false</virtual_machines>
+        </release>
         <release version="20210630-001">
                 <release_date>20210630</release_date>
                 <release_number>001</release_number>
@@ -518,7 +527,6 @@
 		<database_schema>
 			<en>true</en>
 			<bp>true</bp>
-			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
 		<virtual_machines>false</virtual_machines>
@@ -530,7 +538,6 @@
 		<database_schema>
 			<en>true</en>
 			<bp>true</bp>
-			<es>true</es>
 		</database_schema>
 		<release_notes>true</release_notes>
 		<virtual_machines>false</virtual_machines>
