@@ -5,7 +5,7 @@
                 <bundle_md5>d4c0f82383c7195ebe9ae93e1b0c2954</bundle_md5>
                 <installer_md5>cb63a3bf3d39965b4c9127ed2a5fd401</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <virtual_machines>false</virtual_machines>
         </release>
         <release version="20210630-001">
@@ -14,7 +14,7 @@
                 <bundle_md5>adf5811e361c5afe15db3e5349671508</bundle_md5>
                 <installer_md5>8867d821214a2b41ec8c87bc95981784</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <virtual_machines>false</virtual_machines>
         </release>
 	<release version="20210625-001">
@@ -23,7 +23,7 @@
                 <bundle_md5>531fafc761170a774812988b72cf3858</bundle_md5>
                 <installer_md5>5fde8d97afda22b4d3ae871b85dc3ec5</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <virtual_machines>false</virtual_machines>
 	</release>
 	<release version="20210305-001">
