@@ -6,7 +6,14 @@
                 <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
-                <virtual_machines>false</virtual_machines>
+                <virtual_machines>
+                        <vmware>
+                                <vmware_md5>0ef073d179e91882b24bcc5c4cf76afb</vmware_md5>
+                        </vmware>
+                        <virtualbox>
+                                <virtualbox_md5>8f21dbc8fcfd781e3731ce4f2be80817</virtualbox_md5>
+                        </virtualbox>
+                </virtual_machines>
         </release>
         <release version="20210713-001">
                 <release_date>20210713</release_date>
