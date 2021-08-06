@@ -2,7 +2,7 @@
         <release version="20210802-001">
                 <release_date>20210802</release_date>
                 <release_number>001</release_number>
-                <bundle_md5>331c96752aca8450ad2d26c55c613f73</bundle_md5>
+                <bundle_md5>23c213320a900c509888a05007dd32c4</bundle_md5>
                 <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
