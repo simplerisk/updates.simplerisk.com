@@ -1,19 +1,19 @@
 <current_version>
-    <appversion>20210802-001</appversion>
-    <dbversion>20210802-001</dbversion>
-    <advanced_search>20210802-001</advanced_search>
-    <api>20210802-001</api>
-    <assessments>20210802-001</assessments>
-    <authentication>20210802-001</authentication>
-    <complianceforgescf>20210802-001</complianceforgescf>
-    <customization>20210802-001</customization>
-    <encryption>20210802-001</encryption>
-    <importexport>20210802-001</importexport>
-    <incident_management>20210804-001</incident_management>
-    <jira>20210802-001</jira>
-    <notification>20210802-001</notification>
-    <organizational_hierarchy>20210802-001</organizational_hierarchy>
-    <separation>20210802-001</separation>
-    <ucf>20210802-001</ucf>
-    <upgrade>20210802-001</upgrade>
+    <appversion>20210806-001</appversion>
+    <dbversion>20210806-001</dbversion>
+    <advanced_search>20210806-001</advanced_search>
+    <api>20210806-001</api>
+    <assessments>20210806-001</assessments>
+    <authentication>20210809-001</authentication>
+    <complianceforgescf>20210816-001</complianceforgescf>
+    <customization>20210806-001</customization>
+    <encryption>20210806-001</encryption>
+    <importexport>20210806-001</importexport>
+    <incident_management>20210810-001</incident_management>
+    <jira>20210806-001</jira>
+    <notification>20210806-001</notification>
+    <organizational_hierarchy>20210806-001</organizational_hierarchy>
+    <separation>20210806-001</separation>
+    <ucf>20210806-001</ucf>
+    <upgrade>20210806-001</upgrade>
 </current_version>
