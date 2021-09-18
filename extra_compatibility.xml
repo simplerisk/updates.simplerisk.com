@@ -901,4 +901,9 @@
             <appversion>20190331-001</appversion>
         </extra>
     </upgrade>
+    <vulnmgmt>
+        <extra version="20210817-001">
+            <appversion>20210806-001</appversion>
+        </extra>
+    </vulnmgmt>
 </extras>
