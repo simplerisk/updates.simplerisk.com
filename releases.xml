@@ -1,4 +1,20 @@
 <releases>
+        <release version="20210930-001">
+                <release_date>20210930</release_date>
+                <release_number>001</release_number>
+                <bundle_md5>56949787a97a8eb85f3c69a2ff550f5e</bundle_md5>
+                <installer_md5></installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <virtual_machines>
+                        <vmware>
+                                <vmware_md5></vmware_md5>
+                        </vmware>
+                        <virtualbox>
+                                <virtualbox_md5></virtualbox_md5>
+                        </virtualbox>
+                </virtual_machines>
+        </release>
         <release version="20210802-001">
                 <release_date>20210802</release_date>
                 <release_number>001</release_number>
