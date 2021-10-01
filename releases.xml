@@ -3,7 +3,7 @@
                 <release_date>20210930</release_date>
                 <release_number>001</release_number>
                 <bundle_md5>56949787a97a8eb85f3c69a2ff550f5e</bundle_md5>
-                <installer_md5>1189cc52d370c79ae987e5a8179079a4</installer_md5>
+                <installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
                 <virtual_machines>
