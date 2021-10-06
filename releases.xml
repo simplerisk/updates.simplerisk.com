@@ -5,7 +5,7 @@
 		<bundle_md5>56949787a97a8eb85f3c69a2ff550f5e</bundle_md5>
 		<installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
 		<database_schema>false</database_schema>
-		<release_notes>false</release_notes>
+		<release_notes>true</release_notes>
 		<virtual_machines>
 			<vmware>
 				<vmware_md5></vmware_md5>
@@ -21,7 +21,7 @@
                 <bundle_md5>23c213320a900c509888a05007dd32c4</bundle_md5>
                 <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>0ef073d179e91882b24bcc5c4cf76afb</vmware_md5>
