@@ -2,8 +2,8 @@
         <release version="20211010-001">
                 <release_date>20211010</release_date>
                 <release_number>001</release_number>
-                <bundle_md5>c0234c96843bd78934d6a4a249c87f4a</bundle_md5>
-                <installer_md5></installer_md5>
+                <bundle_md5>22600fa146d70e51468ab7681d6aa73f</bundle_md5>
+                <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
                 <virtual_machines>
