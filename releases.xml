@@ -6,14 +6,7 @@
                 <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5></vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5></virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
+                <virtual_machines>false</virtual_machines>
         </release>
 	<release version="20210930-001">
 		<release_date>20210930</release_date>
@@ -22,14 +15,7 @@
 		<installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
 		<database_schema>false</database_schema>
 		<release_notes>true</release_notes>
-		<virtual_machines>
-			<vmware>
-				<vmware_md5></vmware_md5>
-			</vmware>
-			<virtualbox>
-				<virtualbox_md5></virtualbox_md5>
-			</virtualbox>
-		</virtual_machines>
+		<virtual_machines>falase</virtual_machines>
 	</release>
         <release version="20210802-001">
                 <release_date>20210802</release_date>
