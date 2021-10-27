@@ -1,4 +1,13 @@
 <releases>
+        <release version="20211027-001">
+                <release_date>20211027</release_date>
+                <release_number>001</release_number>
+                <bundle_md5>479cf7cca06690cfb732e597ec364dba</bundle_md5>
+                <installer_md5></installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <virtual_machines>false</virtual_machines>
+        </release>
         <release version="20211010-001">
                 <release_date>20211010</release_date>
                 <release_number>001</release_number>
