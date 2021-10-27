@@ -1,20 +1,20 @@
 <current_version>
-<appversion>20211010-001</appversion>
-<dbversion>20211010-001</dbversion>
-<advanced_search>20211010-001</advanced_search>
-<api>20211010-001</api>
-<assessments>20211010-001</assessments>
-<authentication>20211010-001</authentication>
-<complianceforgescf>20211010-001</complianceforgescf>
-<customization>20211010-001</customization>
-<encryption>20211010-001</encryption>
-<importexport>20211010-001</importexport>
-<incident_management>20211010-001</incident_management>
-<jira>20211010-001</jira>
-<notification>20211010-001</notification>
-<organizational_hierarchy>20211010-001</organizational_hierarchy>
-<separation>20211010-001</separation>
-<ucf>20211010-001</ucf>
-<upgrade>20211010-001</upgrade>
-<vulnmgmt>20211010-001</vulnmgmt>
+    <appversion>20211027-001</appversion>
+    <dbversion>20211027-001</dbversion>
+    <advanced_search>20211027-001</advanced_search>
+    <api>20211027-001</api>
+    <assessments>20211027-001</assessments>
+    <authentication>20211027-001</authentication>
+    <complianceforgescf>20211027-001</complianceforgescf>
+    <customization>20211027-001</customization>
+    <encryption>20211027-001</encryption>
+    <importexport>20211027-001</importexport>
+    <incident_management>20211027-001</incident_management>
+    <jira>20211027-001</jira>
+    <notification>20211027-001</notification>
+    <organizational_hierarchy>20211027-001</organizational_hierarchy>
+    <separation>20211027-001</separation>
+    <ucf>20211027-001</ucf>
+    <upgrade>20211027-001</upgrade>
+    <vulnmgmt>20211027-001</vulnmgmt>
 </current_version>
