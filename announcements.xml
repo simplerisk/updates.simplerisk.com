@@ -1,6 +1,7 @@
 <announcements>
-	<announcement>SimpleRisk version 20211027-001 was released providing bug fixes for the 20211010-001 release.</announcements>
-	<announcement>SimpleRisk version 20211010-001 was released providing bug fixes for the 20210930-001 release.</announcements>
+        <announcement>SimpleRisk version 20211115-001 was released providing bug fixes for the 20211027-001 release and adding tab functionality to the Risk Assessment Extra.</announcement>
+	<announcement>SimpleRisk version 20211027-001 was released providing bug fixes for the 20211010-001 release.</announcement>
+	<announcement>SimpleRisk version 20211010-001 was released providing bug fixes for the 20210930-001 release.</announcement>
 	<announcement>SimpleRisk version 20210930-001 was released providing security fixes, bug fixes, enhancements to the ComplianceForge SCF Extra, integrations between risks and complianace, a new Vulnerability Management Extra and more.</announcement>
 	<announcement>The new Organizational Hierarchy Extra adds the ability to put teams under different Business Units and filter teams, users, and more.</announcement>
 	<announcement>The new Incident Management Extra adds incident response capabilities into SimpleRisk</announcement>
