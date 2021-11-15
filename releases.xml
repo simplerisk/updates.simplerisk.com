@@ -4,9 +4,9 @@
                 <release_number>001</release_number>
                 <next_release></next_release>
                 <bundle_md5>03f4b207a8e34db305818841ba72000f</bundle_md5>
-                <installer_md5></installer_md5>
+                <installer_md5>e8a49f1054449f1fe7d5de48a2d341ec</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211115-001" />
