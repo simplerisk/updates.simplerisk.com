@@ -1,12 +1,42 @@
 <releases>
+        <release version="20211230-001">
+                <release_date>20211230</release_date>
+                <release_number>001</release_number>
+                <next_release></next_release>
+                <bundle_md5>71b1b55971198b4cee6928fad5afe844</bundle_md5>
+                <installer_md5>e8c386738da25075bfb01f839fa07160</installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <release_update>false</release_update>
+                <virtual_machines>false</virtual_machines>
+                <extras>
+                        <advanced_search version="20211230-001" />
+                        <api version="20211230-001" />
+                        <assessments version="20211230-001" />
+                        <authentication version="20211230-001" />
+                        <complianceforgescf version="20211230-001" />
+                        <customization version="20211230-001" />
+                        <encryption version="20211230-001" />
+                        <import-export version="20211230-001" />
+                        <incident_management version="20211230-001" />
+                        <jira version="20211230-001" />
+                        <notification version="20211230-001" />
+                        <organizational_hierarchy version="20211230-001" />
+                        <separation version="20211230-001" />
+                        <ucf version="20211230-001" />
+                        <upgrade version="20211230-001" />
+                        <vulnmgmt version="20211230-001" />
+                </extras>
+        </release>
         <release version="20211115-001">
                 <release_date>20211115</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release>20211230-001</next_release>
                 <bundle_md5>03f4b207a8e34db305818841ba72000f</bundle_md5>
                 <installer_md5>e8a49f1054449f1fe7d5de48a2d341ec</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211115-001" />
@@ -35,6 +65,7 @@
                 <installer_md5>da4fe59532585d7c25c8b87b7f9b883f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211027-001" />
@@ -64,6 +95,7 @@
                 <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>64174d4082619a26b5198171b4ec3101</vmware_md5>
@@ -99,6 +131,10 @@
                 <installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210930-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210930-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20210930-001" />
@@ -127,6 +163,7 @@
                 <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>0ef073d179e91882b24bcc5c4cf76afb</vmware_md5>
@@ -180,6 +217,10 @@
                 <installer_md5>cb63a3bf3d39965b4c9127ed2a5fd401</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>f751d4e0d128c66e60231cd32d6d1097</vmware_md5>
@@ -214,6 +255,10 @@
                 <installer_md5>8867d821214a2b41ec8c87bc95981784</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20210630-001" />
@@ -242,6 +287,10 @@
                 <installer_md5>5fde8d97afda22b4d3ae871b85dc3ec5</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20210625-001" />
@@ -269,6 +318,10 @@
                 <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210305-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20210305-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
@@ -309,6 +362,10 @@
                 <installer_md5>cf9ed89a2a3dc25b9d45690ebf6ce0de</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20210121-001 release?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20210121-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20210121-001" />
@@ -338,6 +395,10 @@
                 <installer_md5>3d82a18d56a337ffbf6792973227a8ec</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20201123-001 release?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201123-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20201123-001" />
@@ -366,6 +427,10 @@
                 <installer_md5>f638fe2e23215b1d708b2907805d94ec</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20201106-001 release?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201106-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20201106-001" />
@@ -399,6 +464,10 @@
                 <installer_md5>3de780fedce85d1a72d21ae9fd3ea2a7</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20201005-001 release?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201005-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20201005-001" />
@@ -431,6 +500,10 @@
                 <installer_md5>143bb2c8bb809006875cb3cad60e2069</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20200711-001 release?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200711-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20200711-001" />
@@ -464,6 +537,10 @@
                 <installer_md5>9b30d276492d3bf0dfe1d9a879828930</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20200408-001" />
@@ -504,6 +581,10 @@
                 <installer_md5>292c0af76a05610ba7b5bbd7417d0a5c</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
+                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20200328-001" />
@@ -531,6 +612,10 @@
                 <installer_md5>91bfb7f0c9005d34ffb37565a61dc860</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20191130-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20191130-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20191130-001" />
@@ -559,6 +644,10 @@
                 <installer_md5>5bc4edd1f872809fb04644cfb232fb11</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20190930-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190930-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20190930-001" />
@@ -584,6 +673,10 @@
                 <installer_md5>45d0b9b27ebde463e799ce13cab8b645</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20190630-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190630-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20190630-001" />
@@ -608,6 +701,7 @@
                 <installer_md5>7ca66a078ae9564eec36e4d4f74dcc7f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <api version="20190331-001" />
@@ -631,6 +725,7 @@
                 <installer_md5>35931270de2fd78fa3c2c2bd894afc8e</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -642,6 +737,7 @@
                 <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -653,6 +749,7 @@
                 <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -664,6 +761,7 @@
                 <installer_md5>0b58ab0a6705affb325dcb9e1ee65e7e</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -675,6 +773,7 @@
                 <installer_md5>5dcba14e7e59d1d51b8a7952262cc076</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -686,6 +785,7 @@
                 <installer_md5>e2b25ec67fd9eda08bfb9aaba9275ffa</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -697,6 +797,7 @@
                 <installer_md5>96b6fad1b461aae97137639a5d24284b</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -708,6 +809,7 @@
                 <installer_md5>c2285ca162df1c607317d0f3da16440d</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -719,6 +821,7 @@
                 <installer_md5>571a479dacf4528042b1c71034fb2128</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -730,6 +833,10 @@
                 <installer_md5>1cb8d9cb98c0c7457017eecc85d38a4d</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>The SimpleRisk 20180301-001 Release and the Risk Assessment Extra</name>
+                        <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180301-001-release-and-the-risk-assessment-extra</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -741,6 +848,10 @@
                 <installer_md5>b6bbf6460b23aa9d659826bf75e47bf2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>
+                        <name>The SimpleRisk 20180104-001 Release and the Future Direction of SimpleRisk</name>
+                        <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180104-001-release-and-the-future-direction-of-simplerisk</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -752,6 +863,7 @@
                 <installer_md5>734c87815adda7878e3084758f7ebe3e</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -763,6 +875,7 @@
                 <installer_md5>eed21bd826a9be97bcd4235599551ba2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -774,6 +887,7 @@
                 <installer_md5>ec3cc27f1de20909d4dd6f0ab78c5105</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -785,6 +899,7 @@
                 <installer_md5>cf1b6333dc8d5209dc18572b6e8a7463</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -796,6 +911,7 @@
                 <installer_md5>289e1b09108505705460298addff0478</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -807,6 +923,7 @@
                 <installer_md5>71788eefadb06224bc321b9fe0961b8b</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -818,6 +935,7 @@
                 <installer_md5>ac1cc64974858bbf6917d9530a50d46c</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -829,6 +947,7 @@
                 <installer_md5>391743d663730978de24efcd7df8b334</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -840,6 +959,7 @@
                 <installer_md5>c5933e3a8978445a232e136b969a35c0</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -851,6 +971,7 @@
                 <installer_md5>74bfd9657f0e763ab7ccbbb61d4cefed</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -862,6 +983,7 @@
                 <installer_md5>0a8881bd6ed29039988a3f3cc148f0fe</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -873,6 +995,7 @@
                 <installer_md5>2a5273d015e311823f12976600d31ad4</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -884,6 +1007,7 @@
                 <installer_md5>8e92ae5e070e259933d0779a497b9779</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -895,6 +1019,7 @@
                 <installer_md5>577db78bb06d8861c3f0f2e90e3824d2</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -910,6 +1035,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -925,6 +1051,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -940,6 +1067,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -955,6 +1083,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -970,6 +1099,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -985,6 +1115,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1000,6 +1131,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1015,6 +1147,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1030,6 +1163,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1045,6 +1179,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1059,6 +1194,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1073,6 +1209,7 @@
                         <es>true</es>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1086,6 +1223,7 @@
                         <bp>true</bp>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1099,6 +1237,7 @@
                         <bp>true</bp>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1111,6 +1250,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1123,6 +1263,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1135,6 +1276,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1147,6 +1289,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1159,6 +1302,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1171,6 +1315,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1183,6 +1328,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1195,6 +1341,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1207,6 +1354,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1219,6 +1367,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1231,6 +1380,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>true</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1243,6 +1393,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>false</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>
@@ -1255,6 +1406,7 @@
                         <en>true</en>
                 </database_schema>
                 <release_notes>false</release_notes>
+                <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>false</extras>
         </release>

@@ -1,11 +1,5 @@
 <announcements>
-        <announcement>SimpleRisk version 20211115-001 was released providing bug fixes for the 20211027-001 release and adding tab functionality to the Risk Assessment Extra.</announcement>
-	<announcement>SimpleRisk version 20211027-001 was released providing bug fixes for the 20211010-001 release.</announcement>
-	<announcement>SimpleRisk version 20211010-001 was released providing bug fixes for the 20210930-001 release.</announcement>
-	<announcement>SimpleRisk version 20210930-001 was released providing security fixes, bug fixes, enhancements to the ComplianceForge SCF Extra, integrations between risks and complianace, a new Vulnerability Management Extra and more.</announcement>
-	<announcement>The new Organizational Hierarchy Extra adds the ability to put teams under different Business Units and filter teams, users, and more.</announcement>
-	<announcement>The new Incident Management Extra adds incident response capabilities into SimpleRisk</announcement>
-	<announcement>The new Advanced Search Extra gives you the ability to use the search function at the top right of SimpleRisk to search for text-based risk fields.</announcement>
+	<announcement>SimpleRisk version 20211230-001 was released providing bug fixes, security updates, a faster Dynamic Risk Report, improved management of Risks and Threats and enhancements to the Risk Assessment Extra.</announcement>
 	<announcement>Ever wanted to create your own custom fields in SimpleRisk, remove existing fields, or change the page layouts?  Check out our Customization Extra!</announcement>
 	<announcement>Want to create your own risk assessments and send them out via e-mail?  Purchase the Risk Assessment Extra today!</announcement>
 	<announcement>Having trouble getting SimpleRisk working?  Tired of upgrading to keep up with the latest releases?  Check out SimpleRisk Hosted today to get your SimpleRisk as a Service!</announcement>
