@@ -71,6 +71,9 @@
         </extra>
     </api>
     <assessments>
+        <extra version="20220108-001">
+            <appversion>20211230-001</appversion>
+        </extra>
         <extra version="20211230-001">
             <appversion>20211230-001</appversion>
         </extra>
