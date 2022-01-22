@@ -1,13 +1,45 @@
 <releases>
+        <release version="20220122-001">
+                <release_date>20220122</release_date>
+                <release_number>001</release_number>
+                <next_release></next_release>
+                <bundle_md5></bundle_md5>
+                <installer_md5></installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>false</release_notes>
+                <release_update>false</release_update>
+                <virtual_machines>false</virtual_machines>
+                <extras>
+                        <advanced_search version="20220122-001" />
+                        <api version="20220122-001" />
+                        <assessments version="20220122-001" />
+                        <authentication version="20220122-001" />
+                        <complianceforgescf version="20220122-001" />
+                        <customization version="20220122-001" />
+                        <encryption version="20220122-001" />
+                        <import-export version="20220122-001" />
+                        <incident_management version="20220122-001" />
+                        <jira version="20220122-001" />
+                        <notification version="20220122-001" />
+                        <organizational_hierarchy version="20220122-001" />
+                        <separation version="20220122-001" />
+                        <ucf version="20220122-001" />
+                        <upgrade version="20220122-001" />
+                        <vulnmgmt version="20220122-001" />
+                </extras>
+        </release>
         <release version="20211230-001">
                 <release_date>20211230</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release>20220122-001</next_release>
                 <bundle_md5>71b1b55971198b4cee6928fad5afe844</bundle_md5>
                 <installer_md5>e8c386738da25075bfb01f839fa07160</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>false</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20211230-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211230-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211230-001" />
@@ -37,7 +69,10 @@
                 <installer_md5>e8a49f1054449f1fe7d5de48a2d341ec</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>false</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20211115-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211115-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211115-001" />
@@ -66,7 +101,10 @@
                 <installer_md5>da4fe59532585d7c25c8b87b7f9b883f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>false</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20211027-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211027-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20211027-001" />
@@ -96,7 +134,10 @@
                 <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>false</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20211010-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211010-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>64174d4082619a26b5198171b4ec3101</vmware_md5>
