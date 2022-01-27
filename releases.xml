@@ -25,6 +25,7 @@
                         <separation version="20220122-001" />
                         <ucf version="20220122-001" />
                         <upgrade version="20220122-001" />
+                        <vulnmgmt version="20220127-001" />
                         <vulnmgmt version="20220122-001" />
                 </extras>
         </release>
