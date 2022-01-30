@@ -6,8 +6,11 @@
                 <bundle_md5>07a46d68cb228f5d562629c1d84d8f3e</bundle_md5>
                 <installer_md5>0548384ddd635975393de769cb3152d1</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
-                <release_update>false</release_update>
+                <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220122-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220122-001-release</url>
+                </release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20220122-001" />
