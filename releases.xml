@@ -1,8 +1,37 @@
 <releases>
+        <release version="20220306-001">
+                <release_date>20220306</release_date>
+                <release_number>001</release_number>
+                <next_release></next_release>
+                <bundle_md5>957275736a5be0138c7f76ad0a5d87de</bundle_md5>
+                <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>true</release_notes>
+                <release_update>false</release_update>
+                <virtual_machines>false</virtual_machines>
+                <extras>
+                        <advanced_search version="20220306-001" />
+                        <api version="20220306-001" />
+                        <assessments version="20220306-001" />
+                        <authentication version="20220306-001" />
+                        <complianceforgescf version="20220306-001" />
+                        <customization version="20220306-001" />
+                        <encryption version="20220306-001" />
+                        <import-export version="20220306-001" />
+                        <incident_management version="20220306-001" />
+                        <jira version="20220306-001" />
+                        <notification version="20220306-001" />
+                        <organizational_hierarchy version="20220306-001" />
+                        <separation version="20220306-001" />
+                        <ucf version="20220306-001" />
+                        <upgrade version="20220306-001" />
+                        <vulnmgmt version="20220306-001" />
+                </extras>
+        </release>
         <release version="20220122-001">
                 <release_date>20220122</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release>20220306-001</next_release>
                 <bundle_md5>07a46d68cb228f5d562629c1d84d8f3e</bundle_md5>
                 <installer_md5>0548384ddd635975393de769cb3152d1</installer_md5>
                 <database_schema>false</database_schema>
