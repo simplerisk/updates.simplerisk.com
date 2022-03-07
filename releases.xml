@@ -6,7 +6,7 @@
                 <bundle_md5>957275736a5be0138c7f76ad0a5d87de</bundle_md5>
                 <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
+                <release_notes>true</release_notes>
                 <release_update>false</release_update>
                 <virtual_machines>false</virtual_machines>
                 <extras>
