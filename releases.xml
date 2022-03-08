@@ -8,7 +8,14 @@
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
                 <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
+                <virtual_machines>
+                        <vmware>
+                                <vmware_md5>872b293d521103214779e886ad57ff49</vmware_md5>
+                        </vmware>
+                        <virtualbox>
+                                <virtualbox_md5>e65d4fc310567312428908725cdbb9e6</virtualbox_md5>
+                        </virtualbox>
+                </virtual_machines>
                 <extras>
                         <advanced_search version="20220306-001" />
                         <api version="20220306-001" />
@@ -41,7 +48,14 @@
                         <name>What's new with the SimpleRisk 20220122-001 release?</name>
                         <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220122-001-release</url>
                 </release_update>
-                <virtual_machines>false</virtual_machines>
+                <virtual_machines>
+                        <vmware>
+                                <vmware_md5>e2ae4c561c1907b78f30f997b9397e15</vmware_md5>
+                        </vmware>
+                        <virtualbox>
+                                <virtualbox_md5>ffd83898daf7c1fbffa71f44f2784fcb</virtualbox_md5>
+                        </virtualbox>
+                </virtual_machines>
                 <extras>
                         <advanced_search version="20220122-001" />
                         <api version="20220122-001" />
