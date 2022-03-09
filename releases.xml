@@ -7,7 +7,7 @@
                 <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>false</release_update>
+                <release_update>true</release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>872b293d521103214779e886ad57ff49</vmware_md5>
@@ -34,6 +34,7 @@
                         <upgrade version="20220306-001" />
                         <vulnmgmt version="20220306-001" />
                         <vulnmgmt version="20220307-001" />
+                        <vulnmgmt version="20220309-001" />
                 </extras>
         </release>
         <release version="20220122-001">
