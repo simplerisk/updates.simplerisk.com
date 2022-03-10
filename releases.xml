@@ -21,6 +21,7 @@
                         <api version="20220306-001" />
                         <assessments version="20220306-001" />
                         <authentication version="20220306-001" />
+                        <authentication version="20220310-001" />
                         <complianceforgescf version="20220306-001" />
                         <customization version="20220306-001" />
                         <encryption version="20220306-001" />
