@@ -1221,6 +1221,12 @@
         </extra>
     </upgrade>
     <vulnmgmt>
+        <extra version="20220310-001">
+            <appversion>20220306-001</appversion>
+        </extra>
+        <extra version="20220309-001">
+            <appversion>20220306-001</appversion>
+        </extra>
         <extra version="20220307-001">
             <appversion>20220306-001</appversion>
         </extra>
