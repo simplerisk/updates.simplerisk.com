@@ -35,6 +35,7 @@
                         <vulnmgmt version="20220306-001" />
                         <vulnmgmt version="20220307-001" />
                         <vulnmgmt version="20220309-001" />
+                        <vulnmgmt version="20220310-001" />
                 </extras>
         </release>
         <release version="20220122-001">
