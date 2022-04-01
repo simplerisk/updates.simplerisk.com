@@ -3,7 +3,7 @@
                 <release_date>20220401</release_date>
                 <release_number>001</release_number>
                 <next_release></next_release>
-                <bundle_md5>dabe86b55ab84abb8ad4c8bf2ea36b32</bundle_md5>
+                <bundle_md5>2fb2b7b624db2a6934932c6aaf93d197</bundle_md5>
                 <installer_md5>fb8951d27752210f4c31ec2bd8003645</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
