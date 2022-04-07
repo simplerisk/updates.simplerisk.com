@@ -31,6 +31,7 @@
                         <organizational_hierarchy version="20220401-001" />
                         <separation version="20220401-001" />
                         <ucf version="20220401-001" />
+                        <upgrade version="20220407-001" />
                         <upgrade version="20220401-001" />
                         <vulnmgmt version="20220401-001" />
                 </extras>
