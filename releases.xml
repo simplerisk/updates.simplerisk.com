@@ -19,6 +19,7 @@
                 <extras>
                         <advanced_search version="20220401-001" />
                         <api version="20220401-001" />
+                        <assessments version="20220413-001" />
                         <assessments version="20220401-001" />
                         <authentication version="20220401-001" />
                         <complianceforgescf version="20220401-001" />
