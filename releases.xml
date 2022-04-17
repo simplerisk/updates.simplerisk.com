@@ -19,6 +19,7 @@
                 <extras>
                         <advanced_search version="20220401-001" />
                         <api version="20220401-001" />
+                        <assessments version="20220413-001" />
                         <assessments version="20220401-001" />
                         <authentication version="20220401-001" />
                         <complianceforgescf version="20220401-001" />
@@ -39,7 +40,7 @@
         <release version="20220306-001">
                 <release_date>20220306</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release>20220401-001</next_release>
                 <bundle_md5>957275736a5be0138c7f76ad0a5d87de</bundle_md5>
                 <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
                 <database_schema>false</database_schema>
