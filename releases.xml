@@ -3,8 +3,8 @@
                 <release_date>20220527</release_date>
                 <release_number>001</release_number>
                 <next_release></next_release>
-                <bundle_md5></bundle_md5>
-                <installer_md5></installer_md5>
+                <bundle_md5>f55a836fa20f199c33341f26debff716</bundle_md5>
+                <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>false</release_notes>
                 <release_update>false</release_update>
