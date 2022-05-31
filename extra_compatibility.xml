@@ -1219,6 +1219,9 @@
         </extra>
     </ucf>
     <upgrade>
+        <extra version="20220530-001">
+            <appversion>20220527-001</appversion>
+        </extra>
         <extra version="20220527-001">
             <appversion>20220527-001</appversion>
         </extra>
