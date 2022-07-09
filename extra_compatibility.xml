@@ -775,6 +775,9 @@
         </extra>
     </incident_management>
     <jira>
+        <extra version="20220709-001">
+            <appversion>20220701-001</appversion>
+        </extra>
         <extra version="20220701-001">
             <appversion>20220701-001</appversion>
         </extra>

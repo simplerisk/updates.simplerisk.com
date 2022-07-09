@@ -26,6 +26,7 @@
                         <encryption version="20220701-001" />
                         <import-export version="20220701-001" />
                         <incident_management version="20220701-001" />
+                        <jira version="20220709-001" />
                         <jira version="20220701-001" />
                         <notification version="20220701-001" />
                         <organizational_hierarchy version="20220701-001" />
