@@ -6,8 +6,8 @@
                 <bundle_md5>d2440fce171e76007b3c25cdc111d7ae</bundle_md5>
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
-                <release_notes>false</release_notes>
-                <release_update>false</release_update>
+                <release_notes>true</release_notes>
+                <release_update>true</release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>ddd1fc19dca823372fc5cb281bf0ed5c</vmware_md5>
