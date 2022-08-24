@@ -7,7 +7,10 @@
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>true</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220823-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220823-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>ddd1fc19dca823372fc5cb281bf0ed5c</vmware_md5>
@@ -43,7 +46,10 @@
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>true</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220701-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220701-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>370fe55d60cd868ad269673aef1355ad</vmware_md5>
@@ -80,7 +86,10 @@
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>true</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220527-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220527-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>7b29380faa7c9f7a24132aad2985acb0</vmware_md5>
@@ -117,7 +126,10 @@
                 <installer_md5>fb8951d27752210f4c31ec2bd8003645</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>true</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220401-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220401-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>0955470a926398a6802c4ad584e67c47</vmware_md5>
@@ -155,7 +167,10 @@
                 <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
                 <database_schema>false</database_schema>
                 <release_notes>true</release_notes>
-                <release_update>true</release_update>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220306-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220306-001-release</url>
+                </release_update>
                 <virtual_machines>
                         <vmware>
                                 <vmware_md5>872b293d521103214779e886ad57ff49</vmware_md5>
