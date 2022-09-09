@@ -1,8 +1,40 @@
 <releases>
+        <release version="20220909-001">
+                <release_date>20220909</release_date>
+                <release_number>001</release_number>
+                <next_release></next_release>
+                <bundle_md5>313054427c9a7e0ed6b221a0b97059ac</bundle_md5>
+                <installer_md5>false</installer_md5>
+                <database_schema>false</database_schema>
+                <release_notes>true</release_notes>
+                <release_update>
+                        <name>What's new with the SimpleRisk 20220909-001 release?</name>
+                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220909-001-release</url>
+                </release_update>
+                <virtual_machines>false</virtual_machines>
+                <extras>
+                        <advanced_search version="20220909-001" />
+                        <api version="20220909-001" />
+                        <assessments version="20220909-001" />
+                        <authentication version="20220909-001" />
+                        <complianceforgescf version="20220909-001" />
+                        <customization version="20220909-001" />
+                        <encryption version="20220909-001" />
+                        <import-export version="20220909-001" />
+                        <incident_management version="20220909-001" />
+                        <jira version="20220909-001" />
+                        <notification version="20220909-001" />
+                        <organizational_hierarchy version="20220909-001" />
+                        <separation version="20220909-001" />
+                        <ucf version="20220909-001" />
+                        <upgrade version="20220909-001" />
+                        <vulnmgmt version="20220909-001" />
+                </extras>
+        </release>
         <release version="20220823-001">
                 <release_date>20220823</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release>20220909-001</next_release>
                 <bundle_md5>d2440fce171e76007b3c25cdc111d7ae</bundle_md5>
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
