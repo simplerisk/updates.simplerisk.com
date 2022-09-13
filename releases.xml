@@ -2,7 +2,7 @@
         <release version="20220909-001">
                 <release_date>20220909</release_date>
                 <release_number>001</release_number>
-                <next_release></next_release>
+                <next_release />
                 <bundle_md5>313054427c9a7e0ed6b221a0b97059ac</bundle_md5>
                 <installer_md5>false</installer_md5>
                 <database_schema>false</database_schema>
@@ -11,7 +11,6 @@
                         <name>What's new with the SimpleRisk 20220909-001 release?</name>
                         <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220909-001-release</url>
                 </release_update>
-                <virtual_machines>false</virtual_machines>
                 <extras>
                         <advanced_search version="20220909-001" />
                         <api version="20220909-001" />
@@ -30,6 +29,14 @@
                         <upgrade version="20220909-001" />
                         <vulnmgmt version="20220909-001" />
                 </extras>
+                <virtual_machines>
+                        <virtualbox>
+                                <virtualbox_md5>273bf50a33f1dac236e321ccc4199ecc</virtualbox_md5>
+                        </virtualbox>
+                        <vmware>
+                                <vmware_md5>bd24a447713532f5c69d54a04ebeee9f</vmware_md5>
+                        </vmware>
+                </virtual_machines>
         </release>
         <release version="20220823-001">
                 <release_date>20220823</release_date>
@@ -615,8 +622,8 @@
                                 <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
                         </vmware>
                         <virtualbox>
-	        			        <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
-			            </virtualbox>
+                                <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
+                        </virtualbox>
                 </virtual_machines>
                 <extras>
                         <advanced_search version="20210305-001" />
@@ -895,7 +902,7 @@
         <release version="20191130-001">
                 <release_date>20191130</release_date>
                 <release_number>001</release_number>
-                <next_release>20200328-001</next_release>    
+                <next_release>20200328-001</next_release>
                 <bundle_md5>0d2b9731d3e23f2a90174b0ba0754a7c</bundle_md5>
                 <installer_md5>91bfb7f0c9005d34ffb37565a61dc860</installer_md5>
                 <database_schema>false</database_schema>
@@ -1092,7 +1099,7 @@
         <release version="20180627-001">
                 <release_date>20180627</release_date>
                 <release_number>001</release_number>
-                <next_release>20180812-001</next_release> 
+                <next_release>20180812-001</next_release>
                 <bundle_md5>5d81a6dfe62c6d3c5accf5b230a83dbc</bundle_md5>
                 <installer_md5>c2285ca162df1c607317d0f3da16440d</installer_md5>
                 <database_schema>false</database_schema>
@@ -1170,7 +1177,7 @@
         <release version="20170614-001">
                 <release_date>20170614</release_date>
                 <release_number>001</release_number>
-                <next_release>20170723-001</next_release>      
+                <next_release>20170723-001</next_release>
                 <bundle_md5>7b2689717d6160ac777881dddfa928eb</bundle_md5>
                 <installer_md5>ec3cc27f1de20909d4dd6f0ab78c5105</installer_md5>
                 <database_schema>false</database_schema>
@@ -1278,7 +1285,7 @@
         <release version="20160331-001">
                 <release_date>20160331</release_date>
                 <release_number>001</release_number>
-                <next_release>20160612-001</next_release>     
+                <next_release>20160612-001</next_release>
                 <bundle_md5>9df302c7f2046ed438f3a3331db4e0ac</bundle_md5>
                 <installer_md5>2a5273d015e311823f12976600d31ad4</installer_md5>
                 <database_schema>false</database_schema>
@@ -1346,7 +1353,7 @@
         <release version="20150928-001">
                 <release_date>20150928</release_date>
                 <release_number>001</release_number>
-                <next_release>20150930-001</next_release>      
+                <next_release>20150930-001</next_release>
                 <bundle_md5>9819c4d7e6ca85324bbe6f32b5c14be6</bundle_md5>
                 <installer_md5>622aeedffe9559f5b29b655a0a58be6d</installer_md5>
                 <database_schema>
@@ -1394,7 +1401,7 @@
         <release version="20150531-001">
                 <release_date>20150531</release_date>
                 <release_number>001</release_number>
-                <next_release>20150729-001</next_release>  
+                <next_release>20150729-001</next_release>
                 <bundle_md5>9d11840195e0ad6c22206302c0e10685</bundle_md5>
                 <installer_md5>56c16af9c30dcede9d0f257be6be27a5</installer_md5>
                 <database_schema>
@@ -1413,7 +1420,7 @@
                 <next_release>20150531-001</next_release>
                 <bundle_md5>0ebed68cfbd6b6781f546b62f46917a0</bundle_md5>
                 <installer_md5>6231216942f0c8426a6aedf8172311e6</installer_md5>
-                <database_schema>   
+                <database_schema>
                         <en>true</en>
                         <bp>true</bp>
                         <es>true</es>
@@ -1442,7 +1449,7 @@
         <release version="20141214-001">
                 <release_date>20141214</release_date>
                 <release_number>001</release_number>
-                <next_release>20150202-001</next_release>   
+                <next_release>20150202-001</next_release>
                 <bundle_md5>9af0d24bbdb557e05e2b41c96d984857</bundle_md5>
                 <installer_md5>8fb9469970cacc1f80d8a01149e3ebdf</installer_md5>
                 <database_schema>
@@ -1461,7 +1468,7 @@
                 <next_release>20141214-001</next_release>
                 <bundle_md5>ea106fb1cde7576f2ae0bc6a00de9ce7</bundle_md5>
                 <installer_md5>2e7bd107a4e4b11e4b5afc9396f6e0a4</installer_md5>
-                <database_schema>    
+                <database_schema>
                         <en>true</en>
                         <bp>true</bp>
                         <es>true</es>
@@ -1545,7 +1552,7 @@
         <release version="20131231-001">
                 <release_date>20131231</release_date>
                 <release_number>001</release_number>
-                <next_release>20140224-001</next_release>      
+                <next_release>20140224-001</next_release>
                 <bundle_md5>6c923f0aa627c00cf97265584f9dee34</bundle_md5>
                 <database_schema>
                         <en>true</en>
@@ -1584,7 +1591,7 @@
         <release version="20130929-001">
                 <release_date>20130929</release_date>
                 <release_number>001</release_number>
-                <next_release>20131024-001</next_release>     
+                <next_release>20131024-001</next_release>
                 <bundle_md5>dc2020dcf68b76065ea6cd11a6f9c2e7</bundle_md5>
                 <database_schema>
                         <en>true</en>
@@ -1597,7 +1604,7 @@
         <release version="20130916-001">
                 <release_date>20130916</release_date>
                 <release_number>001</release_number>
-                <next_release>20130929-001</next_release>     
+                <next_release>20130929-001</next_release>
                 <bundle_md5>b190496e0e41f8e8108dd7aaf65c5394</bundle_md5>
                 <database_schema>
                         <en>true</en>
