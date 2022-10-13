@@ -56,7 +56,7 @@
             <separation version="20220909-001" />
             <ucf version="20220909-001" />
             <upgrade version="20220909-001" />
-            <vulnmgmt version="20220909-001" />
+            <vulnmgmt version="20221010-001" />
         </extras>
         <virtual_machines>
             <virtualbox>
