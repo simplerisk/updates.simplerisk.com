@@ -1,1708 +1,1737 @@
 <releases>
-        <release version="20220909-001">
-                <release_date>20220909</release_date>
-                <release_number>001</release_number>
-                <next_release />
-                <bundle_md5>313054427c9a7e0ed6b221a0b97059ac</bundle_md5>
-                <installer_md5>false</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220909-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220909-001-release</url>
-                </release_update>
-                <extras>
-                        <advanced_search version="20220909-001" />
-                        <api version="20220909-001" />
-                        <assessments version="20220909-001" />
-                        <authentication version="20220909-001" />
-                        <complianceforgescf version="20220909-001" />
-                        <customization version="20220909-001" />
-                        <encryption version="20220909-001" />
-                        <import-export version="20220909-001" />
-                        <incident_management version="20220909-001" />
-                        <jira version="20220909-001" />
-                        <notification version="20220909-001" />
-                        <organizational_hierarchy version="20220909-001" />
-                        <separation version="20220909-001" />
-                        <ucf version="20220909-001" />
-                        <upgrade version="20220909-001" />
-                        <vulnmgmt version="20220909-001" />
-                </extras>
-                <virtual_machines>
-                        <virtualbox>
-                                <virtualbox_md5>273bf50a33f1dac236e321ccc4199ecc</virtualbox_md5>
-                        </virtualbox>
-                        <vmware>
-                                <vmware_md5>bd24a447713532f5c69d54a04ebeee9f</vmware_md5>
-                        </vmware>
-                </virtual_machines>
-        </release>
-        <release version="20220823-001">
-                <release_date>20220823</release_date>
-                <release_number>001</release_number>
-                <next_release>20220909-001</next_release>
-                <bundle_md5>d2440fce171e76007b3c25cdc111d7ae</bundle_md5>
-                <installer_md5>false</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220823-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220823-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>ddd1fc19dca823372fc5cb281bf0ed5c</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>5ffdaa0afbef449fd8487c905833533e</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220823-001" />
-                        <api version="20220823-001" />
-                        <assessments version="20220823-001" />
-                        <authentication version="20220823-001" />
-                        <complianceforgescf version="20220823-001" />
-                        <customization version="20220823-001" />
-                        <encryption version="20220823-001" />
-                        <import-export version="20220823-001" />
-                        <incident_management version="20220823-001" />
-                        <jira version="20220823-001" />
-                        <notification version="20220823-001" />
-                        <organizational_hierarchy version="20220823-001" />
-                        <separation version="20220823-001" />
-                        <ucf version="20220823-001" />
-                        <upgrade version="20220823-001" />
-                        <vulnmgmt version="20220823-001" />
-                </extras>
-        </release>
-        <release version="20220701-001">
-                <release_date>20220701</release_date>
-                <release_number>001</release_number>
-                <next_release>20220823-001</next_release>
-                <bundle_md5>8e4f6f3ef4d94cc7e189f8e05b621c24</bundle_md5>
-                <installer_md5>false</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220701-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220701-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>370fe55d60cd868ad269673aef1355ad</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>9d801d6ee0acea04fd0e0a579ffe9af9</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220701-001" />
-                        <api version="20220701-001" />
-                        <assessments version="20220701-001" />
-                        <authentication version="20220701-001" />
-                        <complianceforgescf version="20220701-001" />
-                        <customization version="20220701-001" />
-                        <encryption version="20220701-001" />
-                        <import-export version="20220701-001" />
-                        <incident_management version="20220701-001" />
-                        <jira version="20220709-001" />
-                        <jira version="20220701-001" />
-                        <notification version="20220701-001" />
-                        <organizational_hierarchy version="20220701-001" />
-                        <separation version="20220701-001" />
-                        <ucf version="20220701-001" />
-                        <upgrade version="20220701-001" />
-                        <vulnmgmt version="20220701-001" />
-                </extras>
-        </release>
-        <release version="20220527-001">
-                <release_date>20220527</release_date>
-                <release_number>001</release_number>
-                <next_release>20220701-001</next_release>
-                <bundle_md5>f55a836fa20f199c33341f26debff716</bundle_md5>
-                <installer_md5>false</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220527-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220527-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>7b29380faa7c9f7a24132aad2985acb0</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>c8b0d13ef66ac8ed41406627de09de87</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220527-001" />
-                        <api version="20220527-001" />
-                        <assessments version="20220527-001" />
-                        <authentication version="20220527-001" />
-                        <complianceforgescf version="20220527-001" />
-                        <customization version="20220527-001" />
-                        <encryption version="20220527-001" />
-                        <import-export version="20220527-001" />
-                        <incident_management version="20220527-001" />
-                        <jira version="20220527-001" />
-                        <notification version="20220527-001" />
-                        <organizational_hierarchy version="20220527-001" />
-                        <separation version="20220527-001" />
-                        <ucf version="20220527-001" />
-                        <upgrade version="20220530-001" />
-                        <upgrade version="20220527-001" />
-                        <vulnmgmt version="20220527-001" />
-                </extras>
-        </release>
-        <release version="20220401-001">
-                <release_date>20220401</release_date>
-                <release_number>001</release_number>
-                <next_release>20220527-001</next_release>
-                <bundle_md5>2fb2b7b624db2a6934932c6aaf93d197</bundle_md5>
-                <installer_md5>fb8951d27752210f4c31ec2bd8003645</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220401-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220401-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>0955470a926398a6802c4ad584e67c47</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>918adcc327025114b0b4530da31ce757</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220401-001" />
-                        <api version="20220401-001" />
-                        <assessments version="20220413-001" />
-                        <assessments version="20220401-001" />
-                        <authentication version="20220401-001" />
-                        <complianceforgescf version="20220401-001" />
-                        <customization version="20220401-001" />
-                        <encryption version="20220401-001" />
-                        <import-export version="20220401-001" />
-                        <incident_management version="20220401-001" />
-                        <jira version="20220401-001" />
-                        <notification version="20220401-001" />
-                        <organizational_hierarchy version="20220401-001" />
-                        <separation version="20220401-001" />
-                        <ucf version="20220401-001" />
-                        <upgrade version="20220407-001" />
-                        <upgrade version="20220401-001" />
-                        <vulnmgmt version="20220401-001" />
-                </extras>
-        </release>
-        <release version="20220306-001">
-                <release_date>20220306</release_date>
-                <release_number>001</release_number>
-                <next_release>20220401-001</next_release>
-                <bundle_md5>957275736a5be0138c7f76ad0a5d87de</bundle_md5>
-                <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220306-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220306-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>872b293d521103214779e886ad57ff49</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>e65d4fc310567312428908725cdbb9e6</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220306-001" />
-                        <api version="20220306-001" />
-                        <assessments version="20220306-001" />
-                        <authentication version="20220306-001" />
-                        <authentication version="20220310-001" />
-                        <complianceforgescf version="20220306-001" />
-                        <customization version="20220306-001" />
-                        <encryption version="20220306-001" />
-                        <import-export version="20220306-001" />
-                        <incident_management version="20220306-001" />
-                        <jira version="20220306-001" />
-                        <notification version="20220306-001" />
-                        <organizational_hierarchy version="20220306-001" />
-                        <separation version="20220306-001" />
-                        <ucf version="20220306-001" />
-                        <upgrade version="20220306-001" />
-                        <vulnmgmt version="20220306-001" />
-                        <vulnmgmt version="20220307-001" />
-                        <vulnmgmt version="20220309-001" />
-                        <vulnmgmt version="20220310-001" />
-                </extras>
-        </release>
-        <release version="20220122-001">
-                <release_date>20220122</release_date>
-                <release_number>001</release_number>
-                <next_release>20220306-001</next_release>
-                <bundle_md5>07a46d68cb228f5d562629c1d84d8f3e</bundle_md5>
-                <installer_md5>0548384ddd635975393de769cb3152d1</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20220122-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220122-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>e2ae4c561c1907b78f30f997b9397e15</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>ffd83898daf7c1fbffa71f44f2784fcb</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20220122-001" />
-                        <api version="20220122-001" />
-                        <assessments version="20220122-001" />
-                        <authentication version="20220122-001" />
-                        <complianceforgescf version="20220122-001" />
-                        <customization version="20220122-001" />
-                        <encryption version="20220122-001" />
-                        <import-export version="20220122-001" />
-                        <incident_management version="20220122-001" />
-                        <jira version="20220122-001" />
-                        <notification version="20220122-001" />
-                        <organizational_hierarchy version="20220122-001" />
-                        <separation version="20220122-001" />
-                        <ucf version="20220122-001" />
-                        <upgrade version="20220122-001" />
-                        <vulnmgmt version="20220127-001" />
-                        <vulnmgmt version="20220122-001" />
-                </extras>
-        </release>
-        <release version="20211230-001">
-                <release_date>20211230</release_date>
-                <release_number>001</release_number>
-                <next_release>20220122-001</next_release>
-                <bundle_md5>71b1b55971198b4cee6928fad5afe844</bundle_md5>
-                <installer_md5>e8c386738da25075bfb01f839fa07160</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20211230-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211230-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20211230-001" />
-                        <api version="20211230-001" />
-                        <assessments version="20220108-001" />
-                        <assessments version="20211230-001" />
-                        <authentication version="20211230-001" />
-                        <complianceforgescf version="20211230-001" />
-                        <customization version="20211230-001" />
-                        <encryption version="20211230-001" />
-                        <import-export version="20211230-001" />
-                        <incident_management version="20211230-001" />
-                        <jira version="20211230-001" />
-                        <notification version="20211230-001" />
-                        <organizational_hierarchy version="20211230-001" />
-                        <separation version="20211230-001" />
-                        <ucf version="20211230-001" />
-                        <upgrade version="20211230-001" />
-                        <vulnmgmt version="20211230-001" />
-                </extras>
-        </release>
-        <release version="20211115-001">
-                <release_date>20211115</release_date>
-                <release_number>001</release_number>
-                <next_release>20211230-001</next_release>
-                <bundle_md5>03f4b207a8e34db305818841ba72000f</bundle_md5>
-                <installer_md5>e8a49f1054449f1fe7d5de48a2d341ec</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20211115-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211115-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20211115-001" />
-                        <api version="20211115-001" />
-                        <assessments version="20211115-001" />
-                        <authentication version="20211115-001" />
-                        <complianceforgescf version="20211115-001" />
-                        <customization version="20211115-001" />
-                        <encryption version="20211115-001" />
-                        <import-export version="20211115-001" />
-                        <incident_management version="20211115-001" />
-                        <jira version="20211115-001" />
-                        <notification version="20211115-001" />
-                        <organizational_hierarchy version="20211115-001" />
-                        <separation version="20211115-001" />
-                        <ucf version="20211115-001" />
-                        <upgrade version="20211115-001" />
-                        <vulnmgmt version="20211115-001" />
-                </extras>
-        </release>
-        <release version="20211027-001">
-                <release_date>20211027</release_date>
-                <release_number>001</release_number>
-                <next_release>20211115-001</next_release>
-                <bundle_md5>f8a0a6badbbf780d8a5f20f6c68ddb92</bundle_md5>
-                <installer_md5>da4fe59532585d7c25c8b87b7f9b883f</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20211027-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211027-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20211027-001" />
-                        <api version="20211027-001" />
-                        <assessments version="20211027-001" />
-                        <authentication version="20211027-001" />
-                        <complianceforgescf version="20211105-001" />
-                        <complianceforgescf version="20211027-001" />
-                        <customization version="20211027-001" />
-                        <encryption version="20211027-001" />
-                        <import-export version="20211027-001" />
-                        <incident_management version="20211027-001" />
-                        <jira version="20211027-001" />
-                        <notification version="20211027-001" />
-                        <organizational_hierarchy version="20211027-001" />
-                        <separation version="20211027-001" />
-                        <ucf version="20211027-001" />
-                        <upgrade version="20211027-001" />
-                        <vulnmgmt version="20211027-001" />
-                </extras>
-        </release>
-        <release version="20211010-001">
-                <release_date>20211010</release_date>
-                <release_number>001</release_number>
-                <next_release>20211027-001</next_release>
-                <bundle_md5>22600fa146d70e51468ab7681d6aa73f</bundle_md5>
-                <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20211010-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211010-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>64174d4082619a26b5198171b4ec3101</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>995494c1e04a2873881840f29e3dc9df</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20211010-001" />
-                        <api version="20211010-001" />
-                        <assessments version="20211010-001" />
-                        <authentication version="20211010-001" />
-                        <complianceforgescf version="20211010-001" />
-                        <customization version="20211010-001" />
-                        <encryption version="20211010-001" />
-                        <import-export version="20211010-001" />
-                        <incident_management version="20211010-001" />
-                        <jira version="20211010-001" />
-                        <notification version="20211010-001" />
-                        <organizational_hierarchy version="20211010-001" />
-                        <separation version="20211010-001" />
-                        <ucf version="20211010-001" />
-                        <upgrade version="20211010-001" />
-                        <vulnmgmt version="20211010-001" />
-                </extras>
-        </release>
-        <release version="20210930-001">
-                <release_date>20210930</release_date>
-                <release_number>001</release_number>
-                <next_release>20211010-001</next_release>
-                <bundle_md5>56949787a97a8eb85f3c69a2ff550f5e</bundle_md5>
-                <installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210930-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210930-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20210930-001" />
-                        <api version="20210930-001" />
-                        <assessments version="20210930-001" />
-                        <authentication version="20210930-001" />
-                        <complianceforgescf version="20210930-001" />
-                        <customization version="20210930-001" />
-                        <encryption version="20210930-001" />
-                        <import-export version="20210930-001" />
-                        <incident_management version="20210930-001" />
-                        <jira version="20210930-001" />
-                        <notification version="20210930-001" />
-                        <organizational_hierarchy version="20210930-001" />
-                        <separation version="20210930-001" />
-                        <ucf version="20210930-001" />
-                        <upgrade version="20210930-001" />
-                        <vulnmgmt version="20210930-001" />
-                </extras>
-        </release>
-        <release version="20210802-001">
-                <release_date>20210802</release_date>
-                <release_number>001</release_number>
-                <next_release>20210930-001</next_release>
-                <bundle_md5>23c213320a900c509888a05007dd32c4</bundle_md5>
-                <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>0ef073d179e91882b24bcc5c4cf76afb</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>8f21dbc8fcfd781e3731ce4f2be80817</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20210806-001" />
-                        <advanced_search version="20210802-001" />
-                        <api version="20210806-001" />
-                        <api version="20210802-001" />
-                        <assessments version="20210806-001" />
-                        <assessments version="20210802-001" />
-                        <authentication version="20210809-001" />
-                        <authentication version="20210802-001" />
-                        <complianceforgescf version="20210817-001" />
-                        <complianceforgescf version="20210816-001" />
-                        <complianceforgescf version="20210802-001" />
-                        <customization version="20210814-001" />
-                        <customization version="20210802-001" />
-                        <customization version="20210802-001" />
-                        <encryption version="20210806-001" />
-                        <encryption version="20210802-001" />
-                        <import-export version="20210806-001" />
-                        <import-export version="20210802-001" />
-                        <incident_management version="20210810-001" />
-                        <incident_management version="20210804-001" />
-                        <incident_management version="20210802-001" />
-                        <jira version="20210806-001" />
-                        <jira version="20210802-001" />
-                        <notification version="20210806-001" />
-                        <notification version="20210802-001" />
-                        <organizational_hierarchy version="20210806-001" />
-                        <organizational_hierarchy version="20210802-001" />
-                        <separation version="20210806-001" />
-                        <separation version="20210802-001" />
-                        <ucf version="20210806-001" />
-                        <ucf version="20210802-001" />
-                        <upgrade version="20210806-001" />
-                        <upgrade version="20210802-001" />
-                        <vulnmgmt version="20210817-001" />
-                </extras>
-        </release>
-        <release version="20210713-001">
-                <release_date>20210713</release_date>
-                <release_number>001</release_number>
-                <next_release>20210802-001</next_release>
-                <bundle_md5>d4c0f82383c7195ebe9ae93e1b0c2954</bundle_md5>
-                <installer_md5>cb63a3bf3d39965b4c9127ed2a5fd401</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>f751d4e0d128c66e60231cd32d6d1097</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>244e90d02d3c357e49dfd58346abf9d1</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20210713-001" />
-                        <api version="20210713-001" />
-                        <assessments version="20210713-001" />
-                        <authentication version="20210713-001" />
-                        <complianceforgescf version="20210713-001" />
-                        <customization version="20210713-001" />
-                        <encryption version="20210713-001" />
-                        <import-export version="20210713-001" />
-                        <incident_management version="20210713-001" />
-                        <jira version="20210713-001" />
-                        <notification version="20210713-001" />
-                        <organizational_hierarchy version="20210713-001" />
-                        <separation version="20210713-001" />
-                        <ucf version="20210713-001" />
-                        <upgrade version="20210713-001" />
-                </extras>
-        </release>
-        <release version="20210630-001">
-                <release_date>20210630</release_date>
-                <release_number>001</release_number>
-                <next_release>20210713-001</next_release>
-                <bundle_md5>adf5811e361c5afe15db3e5349671508</bundle_md5>
-                <installer_md5>8867d821214a2b41ec8c87bc95981784</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20210630-001" />
-                        <api version="20210630-001" />
-                        <assessments version="20210630-001" />
-                        <authentication version="20210704-001" />
-                        <authentication version="20210630-001" />
-                        <complianceforgescf version="20210630-001" />
-                        <customization version="20210630-001" />
-                        <encryption version="20210630-001" />
-                        <import-export version="20210630-001" />
-                        <incident_management version="20210630-001" />
-                        <jira version="20210630-001" />
-                        <notification version="20210630-001" />
-                        <organizational_hierarchy version="20210630-001" />
-                        <separation version="20210630-001" />
-                        <ucf version="20210630-001" />
-                        <upgrade version="20210630-001" />
-                </extras>
-        </release>
-        <release version="20210625-001">
-                <release_date>20210625</release_date>
-                <release_number>001</release_number>
-                <next_release>20210630-001</next_release>
-                <bundle_md5>531fafc761170a774812988b72cf3858</bundle_md5>
-                <installer_md5>5fde8d97afda22b4d3ae871b85dc3ec5</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20210625-001" />
-                        <api version="20210625-001" />
-                        <assessments version="20210625-001" />
-                        <authentication version="20210625-001" />
-                        <complianceforgescf version="20210625-001" />
-                        <customization version="20210625-001" />
-                        <encryption version="20210625-001" />
-                        <import-export version="20210625-001" />
-                        <incident_management version="20210625-001" />
-                        <jira version="20210625-001" />
-                        <notification version="20210625-001" />
-                        <organizational_hierarchy version="20210625-001" />
-                        <separation version="20210625-001" />
-                        <ucf version="20210625-001" />
-                        <upgrade version="20210625-001" />
-                </extras>
-        </release>
-        <release version="20210305-001">
-                <release_date>20210305</release_date>
-                <release_number>001</release_number>
-                <next_release>20210625-001</next_release>
-                <bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
-                <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210305-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20210305-001-release</url>
-                </release_update>
-                <virtual_machines>
-                        <vmware>
-                                <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
-                        </vmware>
-                        <virtualbox>
-                                <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
-                        </virtualbox>
-                </virtual_machines>
-                <extras>
-                        <advanced_search version="20210305-001" />
-                        <api version="20210305-001" />
-                        <assessments version="20210305-001" />
-                        <authentication version="20210504-001" />
-                        <authentication version="20210316-001" />
-                        <authentication version="20210305-001" />
-                        <complianceforgescf version="20210505-001" />
-                        <complianceforgescf version="20210429-001" />
-                        <complianceforgescf version="20210305-001" />
-                        <customization version="20210512-001" />
-                        <customization version="20210507-001" />
-                        <customization version="20210305-001" />
-                        <encryption version="20210305-001" />
-                        <import-export version="20210305-001" />
-                        <incident_management version="20210305-001" />
-                        <jira version="20210305-001" />
-                        <notification version="20210305-001" />
-                        <organizational_hierarchy version="20210305-001" />
-                        <separation version="20210305-001" />
-                        <ucf version="20210305-001" />
-                        <upgrade version="20210305-001" />
-                </extras>
-        </release>
-        <release version="20210121-001">
-                <release_date>20210121</release_date>
-                <release_number>001</release_number>
-                <next_release>20210305-001</next_release>
-                <bundle_md5>6e0e23a8b66611ddc01ddcfdd65ae0dd</bundle_md5>
-                <installer_md5>cf9ed89a2a3dc25b9d45690ebf6ce0de</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20210121-001 release?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20210121-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20210121-001" />
-                        <api version="20210121-001" />
-                        <assessments version="20210204-001" />
-                        <assessments version="20210121-001" />
-                        <authentication version="20210121-001" />
-                        <complianceforgescf version="20210121-001" />
-                        <customization version="20210121-001" />
-                        <encryption version="20210121-001" />
-                        <import-export version="20210204-001" />
-                        <import-export version="20210121-001" />
-                        <incident_management version="20210121-001" />
-                        <jira version="20210121-001" />
-                        <notification version="20210121-001" />
-                        <organizational_hierarchy version="20210121-001" />
-                        <separation version="20210121-001" />
-                        <ucf version="20210121-001" />
-                        <upgrade version="20210121-001" />
-                </extras>
-        </release>
-        <release version="20201123-001">
-                <release_date>20201123</release_date>
-                <release_number>001</release_number>
-                <next_release>20210121-001</next_release>
-                <bundle_md5>35df6a9ac1216df0b1ff92f6a6c99caf</bundle_md5>
-                <installer_md5>3d82a18d56a337ffbf6792973227a8ec</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20201123-001 release?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201123-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20201123-001" />
-                        <api version="20201123-001" />
-                        <assessments version="20201123-001" />
-                        <authentication version="20201123-001" />
-                        <complianceforgescf version="20201218-001" />
-                        <complianceforgescf version="20201123-001" />
-                        <customization version="20201123-001" />
-                        <encryption version="20201123-001" />
-                        <import-export version="20201123-001" />
-                        <incident_management version="20201123-001" />
-                        <jira version="20201123-001" />
-                        <notification version="20201123-001" />
-                        <organizational_hierarchy version="20201123-001" />
-                        <separation version="20201123-001" />
-                        <ucf version="20201123-001" />
-                        <upgrade version="20201123-001" />
-                </extras>
-        </release>
-        <release version="20201106-001">
-                <release_date>20201106</release_date>
-                <release_number>001</release_number>
-                <next_release>20201123-001</next_release>
-                <bundle_md5>473adcb9e66739677c03d17803ff39e3</bundle_md5>
-                <installer_md5>f638fe2e23215b1d708b2907805d94ec</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20201106-001 release?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201106-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20201106-001" />
-                        <api version="20201106-001" />
-                        <assessments version="20201114-001" />
-                        <assessments version="20201106-001" />
-                        <authentication version="20201114-001" />
-                        <authentication version="20201106-001" />
-                        <complianceforgescf version="20201218-001" />
-                        <complianceforgescf version="20201106-001" />
-                        <customization version="20201106-001" />
-                        <encryption version="20201106-001" />
-                        <import-export version="20201106-001" />
-                        <incident_management version="20201120-001" />
-                        <incident_management version="20201106-001" />
-                        <jira version="20201106-001" />
-                        <notification version="20201114-001" />
-                        <notification version="20201106-001" />
-                        <organizational_hierarchy version="20201106-001" />
-                        <separation version="20201106-001" />
-                        <ucf version="20201106-001" />
-                        <upgrade version="20201117-001" />
-                        <upgrade version="20201106-001" />
-                </extras>
-        </release>
-        <release version="20201005-001">
-                <release_date>20201005</release_date>
-                <release_number>001</release_number>
-                <next_release>20201106-001</next_release>
-                <bundle_md5>602fd0fff2a9a88c7cee0e86513757b0</bundle_md5>
-                <installer_md5>3de780fedce85d1a72d21ae9fd3ea2a7</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20201005-001 release?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201005-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20201005-001" />
-                        <api version="20201005-001" />
-                        <assessments version="20201005-001" />
-                        <authentication version="20201027-001" />
-                        <authentication version="20201026-001" />
-                        <authentication version="20201022-001" />
-                        <authentication version="20201005-001" />
-                        <complianceforgescf version="20201007-001" />
-                        <complianceforgescf version="20201005-001" />
-                        <customization version="20201005-001" />
-                        <encryption version="20201022-001" />
-                        <encryption version="20201005-001" />
-                        <import-export version="20201005-001" />
-                        <incident_management version="20201005-001" />
-                        <jira version="20201005-001" />
-                        <notification version="20201005-001" />
-                        <organizational_hierarchy version="20201005-001" />
-                        <separation version="20201005-001" />
-                        <ucf version="20201005-001" />
-                        <upgrade version="20201005-001" />
-                </extras>
-        </release>
-        <release version="20200711-001">
-                <release_date>20200711</release_date>
-                <release_number>001</release_number>
-                <next_release>20201005-001</next_release>
-                <bundle_md5>1ee73d165399e99bc2d50845e3365997</bundle_md5>
-                <installer_md5>143bb2c8bb809006875cb3cad60e2069</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20200711-001 release?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200711-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20200711-001" />
-                        <api version="20200711-001" />
-                        <assessments version="20200711-001" />
-                        <authentication version="20200919-001" />
-                        <authentication version="20200711-001" />
-                        <complianceforgescf version="20200808-001" />
-                        <complianceforgescf version="20200721-001" />
-                        <complianceforgescf version="20200719-001" />
-                        <complianceforgescf version="20200714-001" />
-                        <complianceforgescf version="20200711-001" />
-                        <customization version="20200711-001" />
-                        <encryption version="20200711-001" />
-                        <import-export version="20200711-001" />
-                        <incident_management version="20200711-001" />
-                        <jira version="20200711-001" />
-                        <notification version="20200903-001" />
-                        <notification version="20200711-001" />
-                        <organizational_hierarchy version="20200711-001" />
-                        <separation version="20200711-001" />
-                        <ucf version="20200711-001" />
-                        <upgrade version="20200711-001" />
-                </extras>
-        </release>
-        <release version="20200401-001">
-                <release_date>20200401</release_date>
-                <release_number>001</release_number>
-                <next_release>20200711-001</next_release>
-                <bundle_md5>704b86c9376e51ae57629017e36e0393</bundle_md5>
-                <installer_md5>9b30d276492d3bf0dfe1d9a879828930</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20200408-001" />
-                        <advanced_search version="20200401-001" />
-                        <api version="20200408-001" />
-                        <api version="20200401-001" />
-                        <assessments version="20200408-001" />
-                        <assessments version="20200401-001" />
-                        <authentication version="20200408-001" />
-                        <authentication version="20200401-001" />
-                        <complianceforgescf version="20200502-001" />
-                        <complianceforgescf version="20200401-001" />
-                        <customization version="20200401-001" />
-                        <encryption version="20200401-001" />
-                        <import-export version="20200408-001" />
-                        <import-export version="20200401-001" />
-                        <incident_management version="20200522-001" />
-                        <jira version="20200408-001" />
-                        <jira version="20200401-001" />
-                        <notification version="20200408-001" />
-                        <notification version="20200401-001" />
-                        <separation version="20200408-001" />
-                        <separation version="20200401-001" />
-                        <ucf version="20200408-001" />
-                        <ucf version="20200401-001" />
-                        <upgrade version="20200516-001" />
-                        <upgrade version="20200515-001" />
-                        <upgrade version="20200512-001" />
-                        <upgrade version="20200507-001" />
-                        <upgrade version="20200401-001" />
-                </extras>
-        </release>
-        <release version="20200328-001">
-                <release_date>20200328</release_date>
-                <release_number>001</release_number>
-                <next_release>20200401-001</next_release>
-                <bundle_md5>2915b0333d7739d7b690b95ee44c7852</bundle_md5>
-                <installer_md5>292c0af76a05610ba7b5bbd7417d0a5c</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
-                        <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20200328-001" />
-                        <api version="20200328-001" />
-                        <assessments version="20200328-001" />
-                        <authentication version="20200328-001" />
-                        <complianceforgescf version="20200331-001" />
-                        <complianceforgescf version="20200330-001" />
-                        <complianceforgescf version="20200328-001" />
-                        <customization version="20200328-001" />
-                        <encryption version="20200328-001" />
-                        <import-export version="20200328-001" />
-                        <jira version="20200328-001" />
-                        <notification version="20200328-001" />
-                        <separation version="20200328-001" />
-                        <ucf version="20200328-001" />
-                        <upgrade version="20200328-001" />
-                </extras>
-        </release>
-        <release version="20191130-001">
-                <release_date>20191130</release_date>
-                <release_number>001</release_number>
-                <next_release>20200328-001</next_release>
-                <bundle_md5>0d2b9731d3e23f2a90174b0ba0754a7c</bundle_md5>
-                <installer_md5>91bfb7f0c9005d34ffb37565a61dc860</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20191130-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20191130-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20191130-001" />
-                        <api version="20191130-001" />
-                        <assessments version="20191130-001" />
-                        <authentication version="20191204-001" />
-                        <authentication version="20191130-001" />
-                        <complianceforgescf version="20191130-001" />
-                        <customization version="20191130-001" />
-                        <encryption version="20191130-001" />
-                        <import-export version="20191130-001" />
-                        <jira version="20191130-001" />
-                        <notification version="20200211-001" />
-                        <notification version="20191202-001" />
-                        <notification version="20191130-001" />
-                        <separation version="20191130-001" />
-                        <ucf version="20191130-001" />
-                        <upgrade version="20191130-001" />
-                </extras>
-        </release>
-        <release version="20190930-001">
-                <release_date>20190930</release_date>
-                <release_number>001</release_number>
-                <next_release>20191130-001</next_release>
-                <bundle_md5>ef04f5ff1913b292e80e6da23c032f80</bundle_md5>
-                <installer_md5>5bc4edd1f872809fb04644cfb232fb11</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20190930-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190930-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20190930-001" />
-                        <api version="20190930-001" />
-                        <assessments version="20190930-001" />
-                        <authentication version="20190930-001" />
-                        <complianceforgescf version="20190930-001" />
-                        <customization version="20191001-001" />
-                        <customization version="20190930-001" />
-                        <encryption version="20190930-001" />
-                        <import-export version="20190930-001" />
-                        <notification version="20190930-001" />
-                        <separation version="20190930-001" />
-                        <upgrade version="20191018-001" />
-                        <upgrade version="20190930-001" />
-                </extras>
-        </release>
-        <release version="20190630-001">
-                <release_date>20190630</release_date>
-                <release_number>001</release_number>
-                <next_release>20190930-001</next_release>
-                <bundle_md5>518d2a131a836bf49cf4d879a479f8fd</bundle_md5>
-                <installer_md5>45d0b9b27ebde463e799ce13cab8b645</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>What's new with the SimpleRisk 20190630-001 release?</name>
-                        <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190630-001-release</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <advanced_search version="20190630-001" />
-                        <api version="20190630-001" />
-                        <assessments version="20190630-001" />
-                        <authentication version="20190630-001" />
-                        <complianceforgescf version="20190630-001" />
-                        <customization version="20190630-001" />
-                        <encryption version="20190630-001" />
-                        <import-export version="20190729-001" />
-                        <import-export version="20190630-001" />
-                        <notification version="20190630-001" />
-                        <separation version="20190630-001" />
-                        <upgrade version="20190630-001" />
-                </extras>
-        </release>
-        <release version="20190331-001">
-                <release_date>20190331</release_date>
-                <release_number>001</release_number>
-                <next_release>20190630-001</next_release>
-                <bundle_md5>92b7983620074ebf757563f84175f7db</bundle_md5>
-                <installer_md5>7ca66a078ae9564eec36e4d4f74dcc7f</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>
-                        <api version="20190331-001" />
-                        <assessments version="20190331-001" />
-                        <authentication version="20190508-001" />
-                        <authentication version="20190331-001" />
-                        <complianceforgescf version="20190331-001" />
-                        <customization version="20190331-001" />
-                        <encryption version="20190331-001" />
-                        <import-export version="20190331-001" />
-                        <notification version="20190331-001" />
-                        <separation version="20190331-001" />
-                        <upgrade version="20190331-001" />
-                </extras>
-        </release>
-        <release version="20190210-001">
-                <release_date>20190210</release_date>
-                <release_number>001</release_number>
-                <next_release>20190331-001</next_release>
-                <bundle_md5>56f0946ad0b6c63b1b717b6f898c5935</bundle_md5>
-                <installer_md5>35931270de2fd78fa3c2c2bd894afc8e</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20190105-001">
-                <release_date>20190105</release_date>
-                <release_number>001</release_number>
-                <next_release>20190210-001</next_release>
-                <bundle_md5>479b5cfd8543871ff392025ff924e727</bundle_md5>
-                <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20181103-001">
-                <release_date>20181103</release_date>
-                <release_number>001</release_number>
-                <next_release>20190105-001</next_release>
-                <bundle_md5>479b5cfd8543871ff392025ff924e727</bundle_md5>
-                <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180916-001">
-                <release_date>20180916</release_date>
-                <release_number>001</release_number>
-                <next_release>20181103-001</next_release>
-                <bundle_md5>143f634f81c239c28231f3362840f80f</bundle_md5>
-                <installer_md5>0b58ab0a6705affb325dcb9e1ee65e7e</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180830-001">
-                <release_date>20180830</release_date>
-                <release_number>001</release_number>
-                <next_release>20180916-001</next_release>
-                <bundle_md5>a2288a1a6ddc5224918ec743a93491f8</bundle_md5>
-                <installer_md5>5dcba14e7e59d1d51b8a7952262cc076</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180814-001">
-                <release_date>20180814</release_date>
-                <release_number>001</release_number>
-                <next_release>20180830-001</next_release>
-                <bundle_md5>1578e0836c83f5600a94b124c5b34e98</bundle_md5>
-                <installer_md5>e2b25ec67fd9eda08bfb9aaba9275ffa</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180812-001">
-                <release_date>20180812</release_date>
-                <release_number>001</release_number>
-                <next_release>20180814-001</next_release>
-                <bundle_md5>65257e7cfd659a093f26191c88ae0dce</bundle_md5>
-                <installer_md5>96b6fad1b461aae97137639a5d24284b</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180627-001">
-                <release_date>20180627</release_date>
-                <release_number>001</release_number>
-                <next_release>20180812-001</next_release>
-                <bundle_md5>5d81a6dfe62c6d3c5accf5b230a83dbc</bundle_md5>
-                <installer_md5>c2285ca162df1c607317d0f3da16440d</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180527-001">
-                <release_date>20180527</release_date>
-                <release_number>001</release_number>
-                <next_release>20180627-001</next_release>
-                <bundle_md5>098639089879c57b92f39bf93d888cd3</bundle_md5>
-                <installer_md5>571a479dacf4528042b1c71034fb2128</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180301-001">
-                <release_date>20180301</release_date>
-                <release_number>001</release_number>
-                <next_release>20180527-001</next_release>
-                <bundle_md5>4573e61c8c31ae006468e11f13bc069d</bundle_md5>
-                <installer_md5>1cb8d9cb98c0c7457017eecc85d38a4d</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>The SimpleRisk 20180301-001 Release and the Risk Assessment Extra</name>
-                        <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180301-001-release-and-the-risk-assessment-extra</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20180104-001">
-                <release_date>20180104</release_date>
-                <release_number>001</release_number>
-                <next_release>20180301-001</next_release>
-                <bundle_md5>80f39f4f778c8fc3b3d4c279e09e1626</bundle_md5>
-                <installer_md5>b6bbf6460b23aa9d659826bf75e47bf2</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>
-                        <name>The SimpleRisk 20180104-001 Release and the Future Direction of SimpleRisk</name>
-                        <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180104-001-release-and-the-future-direction-of-simplerisk</url>
-                </release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170724-001">
-                <release_date>20170724</release_date>
-                <release_number>001</release_number>
-                <next_release>20180104-001</next_release>
-                <bundle_md5>a2a88b594d59fa0306387d5a66baa998</bundle_md5>
-                <installer_md5>734c87815adda7878e3084758f7ebe3e</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170723-001">
-                <release_date>20170723</release_date>
-                <release_number>001</release_number>
-                <next_release>20170724-001</next_release>
-                <bundle_md5>07507d541e0d88bd762299fcb788ae2f</bundle_md5>
-                <installer_md5>eed21bd826a9be97bcd4235599551ba2</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170614-001">
-                <release_date>20170614</release_date>
-                <release_number>001</release_number>
-                <next_release>20170723-001</next_release>
-                <bundle_md5>7b2689717d6160ac777881dddfa928eb</bundle_md5>
-                <installer_md5>ec3cc27f1de20909d4dd6f0ab78c5105</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170416-001">
-                <release_date>20170416</release_date>
-                <release_number>001</release_number>
-                <next_release>20170614-001</next_release>
-                <bundle_md5>1b9207ebb1f692234e28cac9ccc47ac0</bundle_md5>
-                <installer_md5>cf1b6333dc8d5209dc18572b6e8a7463</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170312-001">
-                <release_date>20170312</release_date>
-                <release_number>001</release_number>
-                <next_release>20170416-001</next_release>
-                <bundle_md5>8ff01b5e0e466bd8ebd8c1f629ac5b85</bundle_md5>
-                <installer_md5>289e1b09108505705460298addff0478</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170108-001">
-                <release_date>20170108</release_date>
-                <release_number>001</release_number>
-                <next_release>20170312-001</next_release>
-                <bundle_md5>4b25deb26cc0ac92da5f341e27974249</bundle_md5>
-                <installer_md5>71788eefadb06224bc321b9fe0961b8b</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20170102-001">
-                <release_date>20170102</release_date>
-                <release_number>001</release_number>
-                <next_release>20170108-001</next_release>
-                <bundle_md5>694357d170cf71156454e731fcf6973a</bundle_md5>
-                <installer_md5>ac1cc64974858bbf6917d9530a50d46c</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20161122-001">
-                <release_date>20161122</release_date>
-                <release_number>001</release_number>
-                <next_release>20170102-001</next_release>
-                <bundle_md5>2c30cb720329926ce16fcc1833f9bd70</bundle_md5>
-                <installer_md5>391743d663730978de24efcd7df8b334</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20161030-001">
-                <release_date>20161030</release_date>
-                <release_number>001</release_number>
-                <next_release>20161122-001</next_release>
-                <bundle_md5>f4b076b072fadcef6b74f7708d106d37</bundle_md5>
-                <installer_md5>c5933e3a8978445a232e136b969a35c0</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20161023-001">
-                <release_date>20161023</release_date>
-                <release_number>001</release_number>
-                <next_release>20161030-001</next_release>
-                <bundle_md5>69471edb76994c049df522d3ef6f3d49</bundle_md5>
-                <installer_md5>74bfd9657f0e763ab7ccbbb61d4cefed</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20160612-001">
-                <release_date>20160612</release_date>
-                <release_number>001</release_number>
-                <next_release>20161023-001</next_release>
-                <bundle_md5>5a22619c0248a32985e3e8d45c21456f</bundle_md5>
-                <installer_md5>0a8881bd6ed29039988a3f3cc148f0fe</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20160331-001">
-                <release_date>20160331</release_date>
-                <release_number>001</release_number>
-                <next_release>20160612-001</next_release>
-                <bundle_md5>9df302c7f2046ed438f3a3331db4e0ac</bundle_md5>
-                <installer_md5>2a5273d015e311823f12976600d31ad4</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20160124-001">
-                <release_date>20160124</release_date>
-                <release_number>001</release_number>
-                <next_release>20160331-001</next_release>
-                <bundle_md5>8511f71ddfcbd6454e247549b3fca594</bundle_md5>
-                <installer_md5>8e92ae5e070e259933d0779a497b9779</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20151219-001">
-                <release_date>20151219</release_date>
-                <release_number>001</release_number>
-                <next_release>20160124-001</next_release>
-                <bundle_md5>2dfd47e3582175293e369aa47f985b1a</bundle_md5>
-                <installer_md5>577db78bb06d8861c3f0f2e90e3824d2</installer_md5>
-                <database_schema>false</database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20151108-001">
-                <release_date>20151108</release_date>
-                <release_number>001</release_number>
-                <next_release>20151219-001</next_release>
-                <bundle_md5>72d3b018b30c58f21e6c212eb0beeb9d</bundle_md5>
-                <installer_md5>1652afd204b09dfdd84e33fd04a7469f</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150930-001">
-                <release_date>20150930</release_date>
-                <release_number>001</release_number>
-                <next_release>20151108-001</next_release>
-                <bundle_md5>4662c639bc3b48ee08de322e81246635</bundle_md5>
-                <installer_md5>b3b6613731f8e8f7e77d692c2d7a9d39</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150928-001">
-                <release_date>20150928</release_date>
-                <release_number>001</release_number>
-                <next_release>20150930-001</next_release>
-                <bundle_md5>9819c4d7e6ca85324bbe6f32b5c14be6</bundle_md5>
-                <installer_md5>622aeedffe9559f5b29b655a0a58be6d</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150920-001">
-                <release_date>20150920</release_date>
-                <release_number>001</release_number>
-                <next_release>20150928-001</next_release>
-                <bundle_md5>ca378f5609c9d687f86c336fafa842a0</bundle_md5>
-                <installer_md5>02d511bb811198f09bcca1acc025c5e7</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150729-001">
-                <release_date>20150729</release_date>
-                <release_number>001</release_number>
-                <next_release>20150920-001</next_release>
-                <bundle_md5>15a869f243cea717b9bf7e4e9648a8b1</bundle_md5>
-                <installer_md5>6bae22be4205e2c89547a891b8d63e8</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150531-001">
-                <release_date>20150531</release_date>
-                <release_number>001</release_number>
-                <next_release>20150729-001</next_release>
-                <bundle_md5>9d11840195e0ad6c22206302c0e10685</bundle_md5>
-                <installer_md5>56c16af9c30dcede9d0f257be6be27a5</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150321-001">
-                <release_date>20150321</release_date>
-                <release_number>001</release_number>
-                <next_release>20150531-001</next_release>
-                <bundle_md5>0ebed68cfbd6b6781f546b62f46917a0</bundle_md5>
-                <installer_md5>6231216942f0c8426a6aedf8172311e6</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20150202-001">
-                <release_date>20150202</release_date>
-                <release_number>001</release_number>
-                <next_release>20150321-001</next_release>
-                <bundle_md5>7ce2e5226cec0917b5400c3a4f5fad5f</bundle_md5>
-                <installer_md5>59c71a7cf73c9d5797610c7916700fa1</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20141214-001">
-                <release_date>20141214</release_date>
-                <release_number>001</release_number>
-                <next_release>20150202-001</next_release>
-                <bundle_md5>9af0d24bbdb557e05e2b41c96d984857</bundle_md5>
-                <installer_md5>8fb9469970cacc1f80d8a01149e3ebdf</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20141129-001">
-                <release_date>20141129</release_date>
-                <release_number>001</release_number>
-                <next_release>20141214-001</next_release>
-                <bundle_md5>ea106fb1cde7576f2ae0bc6a00de9ce7</bundle_md5>
-                <installer_md5>2e7bd107a4e4b11e4b5afc9396f6e0a4</installer_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20141013-001">
-                <release_date>20141013</release_date>
-                <release_number>001</release_number>
-                <next_release>20141129-001</next_release>
-                <bundle_md5>bfb1e350210237907ddb59ccf655649d</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20140728-001">
-                <release_date>20140728</release_date>
-                <release_number>001</release_number>
-                <next_release>20141013-001</next_release>
-                <bundle_md5>121fc2da48862fd24b08a50200331e83</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                        <es>true</es>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20140526-001">
-                <release_date>20140526</release_date>
-                <release_number>001</release_number>
-                <next_release>20140728-001</next_release>
-                <bundle_md5>b90f5f49e6524e171087e08cc31c0544</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20140413-001">
-                <release_date>20140413</release_date>
-                <release_number>001</release_number>
-                <next_release>20140526-001</next_release>
-                <bundle_md5>d7b9a705446ed3882abd1a35f468d465</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                        <bp>true</bp>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20140224-001">
-                <release_date>20140224</release_date>
-                <release_number>001</release_number>
-                <next_release>20140413-001</next_release>
-                <bundle_md5>a30bd7fdd115aa938f53ae0d17cea00b</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20131231-001">
-                <release_date>20131231</release_date>
-                <release_number>001</release_number>
-                <next_release>20140224-001</next_release>
-                <bundle_md5>6c923f0aa627c00cf97265584f9dee34</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20131117-001">
-                <release_date>20131117</release_date>
-                <release_number>001</release_number>
-                <next_release>20131231-001</next_release>
-                <bundle_md5>e2f73836cdc1131b4cf475e56a97c486</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20131024-001">
-                <release_date>20131024</release_date>
-                <release_number>001</release_number>
-                <next_release>20131117-001</next_release>
-                <bundle_md5>ff9166be97de6e15a84b7f2405c5b068</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130929-001">
-                <release_date>20130929</release_date>
-                <release_number>001</release_number>
-                <next_release>20131024-001</next_release>
-                <bundle_md5>dc2020dcf68b76065ea6cd11a6f9c2e7</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130916-001">
-                <release_date>20130916</release_date>
-                <release_number>001</release_number>
-                <next_release>20130929-001</next_release>
-                <bundle_md5>b190496e0e41f8e8108dd7aaf65c5394</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130915-001">
-                <release_date>20130915</release_date>
-                <release_number>001</release_number>
-                <next_release>20130916-001</next_release>
-                <bundle_md5>cc94d29a0a60ee48b8d86122eefe66f3</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130827-001">
-                <release_date>20130827</release_date>
-                <release_number>001</release_number>
-                <next_release>20130915-001</next_release>
-                <bundle_md5>7bb71cff30369cc0e18670ff9cc4a73e</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130718-001">
-                <release_date>20130718</release_date>
-                <release_number>001</release_number>
-                <next_release>20130827-001</next_release>
-                <bundle_md5>8b3ffd29cc6ba6daf872ed6cabd2f978</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130501-001">
-                <release_date>20130501</release_date>
-                <release_number>001</release_number>
-                <next_release>20130718-001</next_release>
-                <bundle_md5>7bc6b36c6af4936dc4016048454239a1</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130415-001">
-                <release_date>20130415</release_date>
-                <release_number>001</release_number>
-                <next_release>20130501-001</next_release>
-                <bundle_md5>a0013016ed006c5669e17f075dc3b05f</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>true</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130319-001">
-                <release_date>20130319</release_date>
-                <release_number>001</release_number>
-                <next_release>20130415-001</next_release>
-                <bundle_md5>967707abc2dd6fe2905022992c58e4f3</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>false</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
-        <release version="20130315-001">
-                <release_date>20130315</release_date>
-                <release_number>001</release_number>
-                <next_release>20130319-001</next_release>
-                <bundle_md5>6b86f88be9fe892d223b545c31a41b3d</bundle_md5>
-                <database_schema>
-                        <en>true</en>
-                </database_schema>
-                <release_notes>false</release_notes>
-                <release_update>false</release_update>
-                <virtual_machines>false</virtual_machines>
-                <extras>false</extras>
-        </release>
+    <release version="20221013-001">
+        <release_date>20221013</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>2557a16e1e2058545f399df191138221</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20221013-001" />
+            <api version="20221013-001" />
+            <assessments version="20221013-001" />
+            <authentication version="20221013-001" />
+            <complianceforgescf version="20221013-001" />
+            <customization version="20221013-001" />
+            <encryption version="20221013-001" />
+            <import-export version="20221013-001" />
+            <incident_management version="20221013-001" />
+            <jira version="20221013-001" />
+            <notification version="20221013-001" />
+            <organizational_hierarchy version="20221013-001" />
+            <separation version="20221013-001" />
+            <ucf version="20221013-001" />
+            <upgrade version="20221013-001" />
+            <vulnmgmt version="20221013-001" />
+        </extras>
+    </release>
+    <release version="20220909-001">
+        <release_date>20220909</release_date>
+        <release_number>001</release_number>
+        <next_release>20221013-001</next_release>
+        <bundle_md5>313054427c9a7e0ed6b221a0b97059ac</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220909-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220909-001-release</url>
+        </release_update>
+        <extras>
+            <advanced_search version="20220909-001" />
+            <api version="20220909-001" />
+            <assessments version="20220909-001" />
+            <authentication version="20220909-001" />
+            <complianceforgescf version="20220909-001" />
+            <customization version="20220909-001" />
+            <encryption version="20220909-001" />
+            <import-export version="20220909-001" />
+            <incident_management version="20220909-001" />
+            <jira version="20220909-001" />
+            <notification version="20220909-001" />
+            <organizational_hierarchy version="20220909-001" />
+            <separation version="20220909-001" />
+            <ucf version="20220909-001" />
+            <upgrade version="20220909-001" />
+            <vulnmgmt version="20220909-001" />
+        </extras>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>273bf50a33f1dac236e321ccc4199ecc</virtualbox_md5>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>bd24a447713532f5c69d54a04ebeee9f</vmware_md5>
+            </vmware>
+        </virtual_machines>
+    </release>
+    <release version="20220823-001">
+        <release_date>20220823</release_date>
+        <release_number>001</release_number>
+        <next_release>20220909-001</next_release>
+        <bundle_md5>d2440fce171e76007b3c25cdc111d7ae</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220823-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220823-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>ddd1fc19dca823372fc5cb281bf0ed5c</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>5ffdaa0afbef449fd8487c905833533e</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220823-001" />
+            <api version="20220823-001" />
+            <assessments version="20220823-001" />
+            <authentication version="20220823-001" />
+            <complianceforgescf version="20220823-001" />
+            <customization version="20220823-001" />
+            <encryption version="20220823-001" />
+            <import-export version="20220823-001" />
+            <incident_management version="20220823-001" />
+            <jira version="20220823-001" />
+            <notification version="20220823-001" />
+            <organizational_hierarchy version="20220823-001" />
+            <separation version="20220823-001" />
+            <ucf version="20220823-001" />
+            <upgrade version="20220823-001" />
+            <vulnmgmt version="20220823-001" />
+        </extras>
+    </release>
+    <release version="20220701-001">
+        <release_date>20220701</release_date>
+        <release_number>001</release_number>
+        <next_release>20220823-001</next_release>
+        <bundle_md5>8e4f6f3ef4d94cc7e189f8e05b621c24</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220701-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220701-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>370fe55d60cd868ad269673aef1355ad</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>9d801d6ee0acea04fd0e0a579ffe9af9</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220701-001" />
+            <api version="20220701-001" />
+            <assessments version="20220701-001" />
+            <authentication version="20220701-001" />
+            <complianceforgescf version="20220701-001" />
+            <customization version="20220701-001" />
+            <encryption version="20220701-001" />
+            <import-export version="20220701-001" />
+            <incident_management version="20220701-001" />
+            <jira version="20220709-001" />
+            <jira version="20220701-001" />
+            <notification version="20220701-001" />
+            <organizational_hierarchy version="20220701-001" />
+            <separation version="20220701-001" />
+            <ucf version="20220701-001" />
+            <upgrade version="20220701-001" />
+            <vulnmgmt version="20220701-001" />
+        </extras>
+    </release>
+    <release version="20220527-001">
+        <release_date>20220527</release_date>
+        <release_number>001</release_number>
+        <next_release>20220701-001</next_release>
+        <bundle_md5>f55a836fa20f199c33341f26debff716</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220527-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220527-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>7b29380faa7c9f7a24132aad2985acb0</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>c8b0d13ef66ac8ed41406627de09de87</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220527-001" />
+            <api version="20220527-001" />
+            <assessments version="20220527-001" />
+            <authentication version="20220527-001" />
+            <complianceforgescf version="20220527-001" />
+            <customization version="20220527-001" />
+            <encryption version="20220527-001" />
+            <import-export version="20220527-001" />
+            <incident_management version="20220527-001" />
+            <jira version="20220527-001" />
+            <notification version="20220527-001" />
+            <organizational_hierarchy version="20220527-001" />
+            <separation version="20220527-001" />
+            <ucf version="20220527-001" />
+            <upgrade version="20220530-001" />
+            <upgrade version="20220527-001" />
+            <vulnmgmt version="20220527-001" />
+        </extras>
+    </release>
+    <release version="20220401-001">
+        <release_date>20220401</release_date>
+        <release_number>001</release_number>
+        <next_release>20220527-001</next_release>
+        <bundle_md5>2fb2b7b624db2a6934932c6aaf93d197</bundle_md5>
+        <installer_md5>fb8951d27752210f4c31ec2bd8003645</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220401-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220401-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>0955470a926398a6802c4ad584e67c47</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>918adcc327025114b0b4530da31ce757</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220401-001" />
+            <api version="20220401-001" />
+            <assessments version="20220413-001" />
+            <assessments version="20220401-001" />
+            <authentication version="20220401-001" />
+            <complianceforgescf version="20220401-001" />
+            <customization version="20220401-001" />
+            <encryption version="20220401-001" />
+            <import-export version="20220401-001" />
+            <incident_management version="20220401-001" />
+            <jira version="20220401-001" />
+            <notification version="20220401-001" />
+            <organizational_hierarchy version="20220401-001" />
+            <separation version="20220401-001" />
+            <ucf version="20220401-001" />
+            <upgrade version="20220407-001" />
+            <upgrade version="20220401-001" />
+            <vulnmgmt version="20220401-001" />
+        </extras>
+    </release>
+    <release version="20220306-001">
+        <release_date>20220306</release_date>
+        <release_number>001</release_number>
+        <next_release>20220401-001</next_release>
+        <bundle_md5>957275736a5be0138c7f76ad0a5d87de</bundle_md5>
+        <installer_md5>9456f160a98914db87150ba03eddfc65</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220306-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220306-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>872b293d521103214779e886ad57ff49</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>e65d4fc310567312428908725cdbb9e6</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220306-001" />
+            <api version="20220306-001" />
+            <assessments version="20220306-001" />
+            <authentication version="20220306-001" />
+            <authentication version="20220310-001" />
+            <complianceforgescf version="20220306-001" />
+            <customization version="20220306-001" />
+            <encryption version="20220306-001" />
+            <import-export version="20220306-001" />
+            <incident_management version="20220306-001" />
+            <jira version="20220306-001" />
+            <notification version="20220306-001" />
+            <organizational_hierarchy version="20220306-001" />
+            <separation version="20220306-001" />
+            <ucf version="20220306-001" />
+            <upgrade version="20220306-001" />
+            <vulnmgmt version="20220306-001" />
+            <vulnmgmt version="20220307-001" />
+            <vulnmgmt version="20220309-001" />
+            <vulnmgmt version="20220310-001" />
+        </extras>
+    </release>
+    <release version="20220122-001">
+        <release_date>20220122</release_date>
+        <release_number>001</release_number>
+        <next_release>20220306-001</next_release>
+        <bundle_md5>07a46d68cb228f5d562629c1d84d8f3e</bundle_md5>
+        <installer_md5>0548384ddd635975393de769cb3152d1</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20220122-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20220122-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>e2ae4c561c1907b78f30f997b9397e15</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>ffd83898daf7c1fbffa71f44f2784fcb</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20220122-001" />
+            <api version="20220122-001" />
+            <assessments version="20220122-001" />
+            <authentication version="20220122-001" />
+            <complianceforgescf version="20220122-001" />
+            <customization version="20220122-001" />
+            <encryption version="20220122-001" />
+            <import-export version="20220122-001" />
+            <incident_management version="20220122-001" />
+            <jira version="20220122-001" />
+            <notification version="20220122-001" />
+            <organizational_hierarchy version="20220122-001" />
+            <separation version="20220122-001" />
+            <ucf version="20220122-001" />
+            <upgrade version="20220122-001" />
+            <vulnmgmt version="20220127-001" />
+            <vulnmgmt version="20220122-001" />
+        </extras>
+    </release>
+    <release version="20211230-001">
+        <release_date>20211230</release_date>
+        <release_number>001</release_number>
+        <next_release>20220122-001</next_release>
+        <bundle_md5>71b1b55971198b4cee6928fad5afe844</bundle_md5>
+        <installer_md5>e8c386738da25075bfb01f839fa07160</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20211230-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211230-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20211230-001" />
+            <api version="20211230-001" />
+            <assessments version="20220108-001" />
+            <assessments version="20211230-001" />
+            <authentication version="20211230-001" />
+            <complianceforgescf version="20211230-001" />
+            <customization version="20211230-001" />
+            <encryption version="20211230-001" />
+            <import-export version="20211230-001" />
+            <incident_management version="20211230-001" />
+            <jira version="20211230-001" />
+            <notification version="20211230-001" />
+            <organizational_hierarchy version="20211230-001" />
+            <separation version="20211230-001" />
+            <ucf version="20211230-001" />
+            <upgrade version="20211230-001" />
+            <vulnmgmt version="20211230-001" />
+        </extras>
+    </release>
+    <release version="20211115-001">
+        <release_date>20211115</release_date>
+        <release_number>001</release_number>
+        <next_release>20211230-001</next_release>
+        <bundle_md5>03f4b207a8e34db305818841ba72000f</bundle_md5>
+        <installer_md5>e8a49f1054449f1fe7d5de48a2d341ec</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20211115-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211115-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20211115-001" />
+            <api version="20211115-001" />
+            <assessments version="20211115-001" />
+            <authentication version="20211115-001" />
+            <complianceforgescf version="20211115-001" />
+            <customization version="20211115-001" />
+            <encryption version="20211115-001" />
+            <import-export version="20211115-001" />
+            <incident_management version="20211115-001" />
+            <jira version="20211115-001" />
+            <notification version="20211115-001" />
+            <organizational_hierarchy version="20211115-001" />
+            <separation version="20211115-001" />
+            <ucf version="20211115-001" />
+            <upgrade version="20211115-001" />
+            <vulnmgmt version="20211115-001" />
+        </extras>
+    </release>
+    <release version="20211027-001">
+        <release_date>20211027</release_date>
+        <release_number>001</release_number>
+        <next_release>20211115-001</next_release>
+        <bundle_md5>f8a0a6badbbf780d8a5f20f6c68ddb92</bundle_md5>
+        <installer_md5>da4fe59532585d7c25c8b87b7f9b883f</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20211027-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211027-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20211027-001" />
+            <api version="20211027-001" />
+            <assessments version="20211027-001" />
+            <authentication version="20211027-001" />
+            <complianceforgescf version="20211105-001" />
+            <complianceforgescf version="20211027-001" />
+            <customization version="20211027-001" />
+            <encryption version="20211027-001" />
+            <import-export version="20211027-001" />
+            <incident_management version="20211027-001" />
+            <jira version="20211027-001" />
+            <notification version="20211027-001" />
+            <organizational_hierarchy version="20211027-001" />
+            <separation version="20211027-001" />
+            <ucf version="20211027-001" />
+            <upgrade version="20211027-001" />
+            <vulnmgmt version="20211027-001" />
+        </extras>
+    </release>
+    <release version="20211010-001">
+        <release_date>20211010</release_date>
+        <release_number>001</release_number>
+        <next_release>20211027-001</next_release>
+        <bundle_md5>22600fa146d70e51468ab7681d6aa73f</bundle_md5>
+        <installer_md5>fb75148c5286853e87516660ad3d247f</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20211010-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20211010-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>64174d4082619a26b5198171b4ec3101</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>995494c1e04a2873881840f29e3dc9df</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20211010-001" />
+            <api version="20211010-001" />
+            <assessments version="20211010-001" />
+            <authentication version="20211010-001" />
+            <complianceforgescf version="20211010-001" />
+            <customization version="20211010-001" />
+            <encryption version="20211010-001" />
+            <import-export version="20211010-001" />
+            <incident_management version="20211010-001" />
+            <jira version="20211010-001" />
+            <notification version="20211010-001" />
+            <organizational_hierarchy version="20211010-001" />
+            <separation version="20211010-001" />
+            <ucf version="20211010-001" />
+            <upgrade version="20211010-001" />
+            <vulnmgmt version="20211010-001" />
+        </extras>
+    </release>
+    <release version="20210930-001">
+        <release_date>20210930</release_date>
+        <release_number>001</release_number>
+        <next_release>20211010-001</next_release>
+        <bundle_md5>56949787a97a8eb85f3c69a2ff550f5e</bundle_md5>
+        <installer_md5>f152445e640401960c41e077ee1fd2e4</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210930-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210930-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20210930-001" />
+            <api version="20210930-001" />
+            <assessments version="20210930-001" />
+            <authentication version="20210930-001" />
+            <complianceforgescf version="20210930-001" />
+            <customization version="20210930-001" />
+            <encryption version="20210930-001" />
+            <import-export version="20210930-001" />
+            <incident_management version="20210930-001" />
+            <jira version="20210930-001" />
+            <notification version="20210930-001" />
+            <organizational_hierarchy version="20210930-001" />
+            <separation version="20210930-001" />
+            <ucf version="20210930-001" />
+            <upgrade version="20210930-001" />
+            <vulnmgmt version="20210930-001" />
+        </extras>
+    </release>
+    <release version="20210802-001">
+        <release_date>20210802</release_date>
+        <release_number>001</release_number>
+        <next_release>20210930-001</next_release>
+        <bundle_md5>23c213320a900c509888a05007dd32c4</bundle_md5>
+        <installer_md5>cc0130888ce84e79f4e20db4174e76d2</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>0ef073d179e91882b24bcc5c4cf76afb</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>8f21dbc8fcfd781e3731ce4f2be80817</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20210806-001" />
+            <advanced_search version="20210802-001" />
+            <api version="20210806-001" />
+            <api version="20210802-001" />
+            <assessments version="20210806-001" />
+            <assessments version="20210802-001" />
+            <authentication version="20210809-001" />
+            <authentication version="20210802-001" />
+            <complianceforgescf version="20210817-001" />
+            <complianceforgescf version="20210816-001" />
+            <complianceforgescf version="20210802-001" />
+            <customization version="20210814-001" />
+            <customization version="20210802-001" />
+            <customization version="20210802-001" />
+            <encryption version="20210806-001" />
+            <encryption version="20210802-001" />
+            <import-export version="20210806-001" />
+            <import-export version="20210802-001" />
+            <incident_management version="20210810-001" />
+            <incident_management version="20210804-001" />
+            <incident_management version="20210802-001" />
+            <jira version="20210806-001" />
+            <jira version="20210802-001" />
+            <notification version="20210806-001" />
+            <notification version="20210802-001" />
+            <organizational_hierarchy version="20210806-001" />
+            <organizational_hierarchy version="20210802-001" />
+            <separation version="20210806-001" />
+            <separation version="20210802-001" />
+            <ucf version="20210806-001" />
+            <ucf version="20210802-001" />
+            <upgrade version="20210806-001" />
+            <upgrade version="20210802-001" />
+            <vulnmgmt version="20210817-001" />
+        </extras>
+    </release>
+    <release version="20210713-001">
+        <release_date>20210713</release_date>
+        <release_number>001</release_number>
+        <next_release>20210802-001</next_release>
+        <bundle_md5>d4c0f82383c7195ebe9ae93e1b0c2954</bundle_md5>
+        <installer_md5>cb63a3bf3d39965b4c9127ed2a5fd401</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>f751d4e0d128c66e60231cd32d6d1097</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>244e90d02d3c357e49dfd58346abf9d1</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20210713-001" />
+            <api version="20210713-001" />
+            <assessments version="20210713-001" />
+            <authentication version="20210713-001" />
+            <complianceforgescf version="20210713-001" />
+            <customization version="20210713-001" />
+            <encryption version="20210713-001" />
+            <import-export version="20210713-001" />
+            <incident_management version="20210713-001" />
+            <jira version="20210713-001" />
+            <notification version="20210713-001" />
+            <organizational_hierarchy version="20210713-001" />
+            <separation version="20210713-001" />
+            <ucf version="20210713-001" />
+            <upgrade version="20210713-001" />
+        </extras>
+    </release>
+    <release version="20210630-001">
+        <release_date>20210630</release_date>
+        <release_number>001</release_number>
+        <next_release>20210713-001</next_release>
+        <bundle_md5>adf5811e361c5afe15db3e5349671508</bundle_md5>
+        <installer_md5>8867d821214a2b41ec8c87bc95981784</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20210630-001" />
+            <api version="20210630-001" />
+            <assessments version="20210630-001" />
+            <authentication version="20210704-001" />
+            <authentication version="20210630-001" />
+            <complianceforgescf version="20210630-001" />
+            <customization version="20210630-001" />
+            <encryption version="20210630-001" />
+            <import-export version="20210630-001" />
+            <incident_management version="20210630-001" />
+            <jira version="20210630-001" />
+            <notification version="20210630-001" />
+            <organizational_hierarchy version="20210630-001" />
+            <separation version="20210630-001" />
+            <ucf version="20210630-001" />
+            <upgrade version="20210630-001" />
+        </extras>
+    </release>
+    <release version="20210625-001">
+        <release_date>20210625</release_date>
+        <release_number>001</release_number>
+        <next_release>20210630-001</next_release>
+        <bundle_md5>531fafc761170a774812988b72cf3858</bundle_md5>
+        <installer_md5>5fde8d97afda22b4d3ae871b85dc3ec5</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210625-001, 20210630-001 and 20210713-001 releases?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-simplerisk-20210625-001-20210630-001-and-20210713-001-releases</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20210625-001" />
+            <api version="20210625-001" />
+            <assessments version="20210625-001" />
+            <authentication version="20210625-001" />
+            <complianceforgescf version="20210625-001" />
+            <customization version="20210625-001" />
+            <encryption version="20210625-001" />
+            <import-export version="20210625-001" />
+            <incident_management version="20210625-001" />
+            <jira version="20210625-001" />
+            <notification version="20210625-001" />
+            <organizational_hierarchy version="20210625-001" />
+            <separation version="20210625-001" />
+            <ucf version="20210625-001" />
+            <upgrade version="20210625-001" />
+        </extras>
+    </release>
+    <release version="20210305-001">
+        <release_date>20210305</release_date>
+        <release_number>001</release_number>
+        <next_release>20210625-001</next_release>
+        <bundle_md5>55fa756305861379e35f4973643e23ac</bundle_md5>
+        <installer_md5>f483c4ee0dd5c0fcf605f45444191985</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210305-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20210305-001-release</url>
+        </release_update>
+        <virtual_machines>
+            <vmware>
+                <vmware_md5>8b5c7c7efeabc0c0eb2f8442685cd81a</vmware_md5>
+            </vmware>
+            <virtualbox>
+                <virtualbox_md5>1ca99319c010ae8ab2d532761fa15669</virtualbox_md5>
+            </virtualbox>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20210305-001" />
+            <api version="20210305-001" />
+            <assessments version="20210305-001" />
+            <authentication version="20210504-001" />
+            <authentication version="20210316-001" />
+            <authentication version="20210305-001" />
+            <complianceforgescf version="20210505-001" />
+            <complianceforgescf version="20210429-001" />
+            <complianceforgescf version="20210305-001" />
+            <customization version="20210512-001" />
+            <customization version="20210507-001" />
+            <customization version="20210305-001" />
+            <encryption version="20210305-001" />
+            <import-export version="20210305-001" />
+            <incident_management version="20210305-001" />
+            <jira version="20210305-001" />
+            <notification version="20210305-001" />
+            <organizational_hierarchy version="20210305-001" />
+            <separation version="20210305-001" />
+            <ucf version="20210305-001" />
+            <upgrade version="20210305-001" />
+        </extras>
+    </release>
+    <release version="20210121-001">
+        <release_date>20210121</release_date>
+        <release_number>001</release_number>
+        <next_release>20210305-001</next_release>
+        <bundle_md5>6e0e23a8b66611ddc01ddcfdd65ae0dd</bundle_md5>
+        <installer_md5>cf9ed89a2a3dc25b9d45690ebf6ce0de</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20210121-001 release?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20210121-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20210121-001" />
+            <api version="20210121-001" />
+            <assessments version="20210204-001" />
+            <assessments version="20210121-001" />
+            <authentication version="20210121-001" />
+            <complianceforgescf version="20210121-001" />
+            <customization version="20210121-001" />
+            <encryption version="20210121-001" />
+            <import-export version="20210204-001" />
+            <import-export version="20210121-001" />
+            <incident_management version="20210121-001" />
+            <jira version="20210121-001" />
+            <notification version="20210121-001" />
+            <organizational_hierarchy version="20210121-001" />
+            <separation version="20210121-001" />
+            <ucf version="20210121-001" />
+            <upgrade version="20210121-001" />
+        </extras>
+    </release>
+    <release version="20201123-001">
+        <release_date>20201123</release_date>
+        <release_number>001</release_number>
+        <next_release>20210121-001</next_release>
+        <bundle_md5>35df6a9ac1216df0b1ff92f6a6c99caf</bundle_md5>
+        <installer_md5>3d82a18d56a337ffbf6792973227a8ec</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20201123-001 release?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201123-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20201123-001" />
+            <api version="20201123-001" />
+            <assessments version="20201123-001" />
+            <authentication version="20201123-001" />
+            <complianceforgescf version="20201218-001" />
+            <complianceforgescf version="20201123-001" />
+            <customization version="20201123-001" />
+            <encryption version="20201123-001" />
+            <import-export version="20201123-001" />
+            <incident_management version="20201123-001" />
+            <jira version="20201123-001" />
+            <notification version="20201123-001" />
+            <organizational_hierarchy version="20201123-001" />
+            <separation version="20201123-001" />
+            <ucf version="20201123-001" />
+            <upgrade version="20201123-001" />
+        </extras>
+    </release>
+    <release version="20201106-001">
+        <release_date>20201106</release_date>
+        <release_number>001</release_number>
+        <next_release>20201123-001</next_release>
+        <bundle_md5>473adcb9e66739677c03d17803ff39e3</bundle_md5>
+        <installer_md5>f638fe2e23215b1d708b2907805d94ec</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20201106-001 release?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201106-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20201106-001" />
+            <api version="20201106-001" />
+            <assessments version="20201114-001" />
+            <assessments version="20201106-001" />
+            <authentication version="20201114-001" />
+            <authentication version="20201106-001" />
+            <complianceforgescf version="20201218-001" />
+            <complianceforgescf version="20201106-001" />
+            <customization version="20201106-001" />
+            <encryption version="20201106-001" />
+            <import-export version="20201106-001" />
+            <incident_management version="20201120-001" />
+            <incident_management version="20201106-001" />
+            <jira version="20201106-001" />
+            <notification version="20201114-001" />
+            <notification version="20201106-001" />
+            <organizational_hierarchy version="20201106-001" />
+            <separation version="20201106-001" />
+            <ucf version="20201106-001" />
+            <upgrade version="20201117-001" />
+            <upgrade version="20201106-001" />
+        </extras>
+    </release>
+    <release version="20201005-001">
+        <release_date>20201005</release_date>
+        <release_number>001</release_number>
+        <next_release>20201106-001</next_release>
+        <bundle_md5>602fd0fff2a9a88c7cee0e86513757b0</bundle_md5>
+        <installer_md5>3de780fedce85d1a72d21ae9fd3ea2a7</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20201005-001 release?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20201005-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20201005-001" />
+            <api version="20201005-001" />
+            <assessments version="20201005-001" />
+            <authentication version="20201027-001" />
+            <authentication version="20201026-001" />
+            <authentication version="20201022-001" />
+            <authentication version="20201005-001" />
+            <complianceforgescf version="20201007-001" />
+            <complianceforgescf version="20201005-001" />
+            <customization version="20201005-001" />
+            <encryption version="20201022-001" />
+            <encryption version="20201005-001" />
+            <import-export version="20201005-001" />
+            <incident_management version="20201005-001" />
+            <jira version="20201005-001" />
+            <notification version="20201005-001" />
+            <organizational_hierarchy version="20201005-001" />
+            <separation version="20201005-001" />
+            <ucf version="20201005-001" />
+            <upgrade version="20201005-001" />
+        </extras>
+    </release>
+    <release version="20200711-001">
+        <release_date>20200711</release_date>
+        <release_number>001</release_number>
+        <next_release>20201005-001</next_release>
+        <bundle_md5>1ee73d165399e99bc2d50845e3365997</bundle_md5>
+        <installer_md5>143bb2c8bb809006875cb3cad60e2069</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20200711-001 release?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200711-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20200711-001" />
+            <api version="20200711-001" />
+            <assessments version="20200711-001" />
+            <authentication version="20200919-001" />
+            <authentication version="20200711-001" />
+            <complianceforgescf version="20200808-001" />
+            <complianceforgescf version="20200721-001" />
+            <complianceforgescf version="20200719-001" />
+            <complianceforgescf version="20200714-001" />
+            <complianceforgescf version="20200711-001" />
+            <customization version="20200711-001" />
+            <encryption version="20200711-001" />
+            <import-export version="20200711-001" />
+            <incident_management version="20200711-001" />
+            <jira version="20200711-001" />
+            <notification version="20200903-001" />
+            <notification version="20200711-001" />
+            <organizational_hierarchy version="20200711-001" />
+            <separation version="20200711-001" />
+            <ucf version="20200711-001" />
+            <upgrade version="20200711-001" />
+        </extras>
+    </release>
+    <release version="20200401-001">
+        <release_date>20200401</release_date>
+        <release_number>001</release_number>
+        <next_release>20200711-001</next_release>
+        <bundle_md5>704b86c9376e51ae57629017e36e0393</bundle_md5>
+        <installer_md5>9b30d276492d3bf0dfe1d9a879828930</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20200408-001" />
+            <advanced_search version="20200401-001" />
+            <api version="20200408-001" />
+            <api version="20200401-001" />
+            <assessments version="20200408-001" />
+            <assessments version="20200401-001" />
+            <authentication version="20200408-001" />
+            <authentication version="20200401-001" />
+            <complianceforgescf version="20200502-001" />
+            <complianceforgescf version="20200401-001" />
+            <customization version="20200401-001" />
+            <encryption version="20200401-001" />
+            <import-export version="20200408-001" />
+            <import-export version="20200401-001" />
+            <incident_management version="20200522-001" />
+            <jira version="20200408-001" />
+            <jira version="20200401-001" />
+            <notification version="20200408-001" />
+            <notification version="20200401-001" />
+            <separation version="20200408-001" />
+            <separation version="20200401-001" />
+            <ucf version="20200408-001" />
+            <ucf version="20200401-001" />
+            <upgrade version="20200516-001" />
+            <upgrade version="20200515-001" />
+            <upgrade version="20200512-001" />
+            <upgrade version="20200507-001" />
+            <upgrade version="20200401-001" />
+        </extras>
+    </release>
+    <release version="20200328-001">
+        <release_date>20200328</release_date>
+        <release_number>001</release_number>
+        <next_release>20200401-001</next_release>
+        <bundle_md5>2915b0333d7739d7b690b95ee44c7852</bundle_md5>
+        <installer_md5>292c0af76a05610ba7b5bbd7417d0a5c</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20200328-001 and 20200401-001 releases?</name>
+            <url>https://www.simplerisk.com/blog/whats-new-with-the-simplerisk-20200328-001-and-20200401-001-releases</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20200328-001" />
+            <api version="20200328-001" />
+            <assessments version="20200328-001" />
+            <authentication version="20200328-001" />
+            <complianceforgescf version="20200331-001" />
+            <complianceforgescf version="20200330-001" />
+            <complianceforgescf version="20200328-001" />
+            <customization version="20200328-001" />
+            <encryption version="20200328-001" />
+            <import-export version="20200328-001" />
+            <jira version="20200328-001" />
+            <notification version="20200328-001" />
+            <separation version="20200328-001" />
+            <ucf version="20200328-001" />
+            <upgrade version="20200328-001" />
+        </extras>
+    </release>
+    <release version="20191130-001">
+        <release_date>20191130</release_date>
+        <release_number>001</release_number>
+        <next_release>20200328-001</next_release>
+        <bundle_md5>0d2b9731d3e23f2a90174b0ba0754a7c</bundle_md5>
+        <installer_md5>91bfb7f0c9005d34ffb37565a61dc860</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20191130-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20191130-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20191130-001" />
+            <api version="20191130-001" />
+            <assessments version="20191130-001" />
+            <authentication version="20191204-001" />
+            <authentication version="20191130-001" />
+            <complianceforgescf version="20191130-001" />
+            <customization version="20191130-001" />
+            <encryption version="20191130-001" />
+            <import-export version="20191130-001" />
+            <jira version="20191130-001" />
+            <notification version="20200211-001" />
+            <notification version="20191202-001" />
+            <notification version="20191130-001" />
+            <separation version="20191130-001" />
+            <ucf version="20191130-001" />
+            <upgrade version="20191130-001" />
+        </extras>
+    </release>
+    <release version="20190930-001">
+        <release_date>20190930</release_date>
+        <release_number>001</release_number>
+        <next_release>20191130-001</next_release>
+        <bundle_md5>ef04f5ff1913b292e80e6da23c032f80</bundle_md5>
+        <installer_md5>5bc4edd1f872809fb04644cfb232fb11</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20190930-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190930-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20190930-001" />
+            <api version="20190930-001" />
+            <assessments version="20190930-001" />
+            <authentication version="20190930-001" />
+            <complianceforgescf version="20190930-001" />
+            <customization version="20191001-001" />
+            <customization version="20190930-001" />
+            <encryption version="20190930-001" />
+            <import-export version="20190930-001" />
+            <notification version="20190930-001" />
+            <separation version="20190930-001" />
+            <upgrade version="20191018-001" />
+            <upgrade version="20190930-001" />
+        </extras>
+    </release>
+    <release version="20190630-001">
+        <release_date>20190630</release_date>
+        <release_number>001</release_number>
+        <next_release>20190930-001</next_release>
+        <bundle_md5>518d2a131a836bf49cf4d879a479f8fd</bundle_md5>
+        <installer_md5>45d0b9b27ebde463e799ce13cab8b645</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>What's new with the SimpleRisk 20190630-001 release?</name>
+            <url>https://www.simplerisk.com/product-releases/whats-new-with-the-simplerisk-20190630-001-release</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20190630-001" />
+            <api version="20190630-001" />
+            <assessments version="20190630-001" />
+            <authentication version="20190630-001" />
+            <complianceforgescf version="20190630-001" />
+            <customization version="20190630-001" />
+            <encryption version="20190630-001" />
+            <import-export version="20190729-001" />
+            <import-export version="20190630-001" />
+            <notification version="20190630-001" />
+            <separation version="20190630-001" />
+            <upgrade version="20190630-001" />
+        </extras>
+    </release>
+    <release version="20190331-001">
+        <release_date>20190331</release_date>
+        <release_number>001</release_number>
+        <next_release>20190630-001</next_release>
+        <bundle_md5>92b7983620074ebf757563f84175f7db</bundle_md5>
+        <installer_md5>7ca66a078ae9564eec36e4d4f74dcc7f</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <api version="20190331-001" />
+            <assessments version="20190331-001" />
+            <authentication version="20190508-001" />
+            <authentication version="20190331-001" />
+            <complianceforgescf version="20190331-001" />
+            <customization version="20190331-001" />
+            <encryption version="20190331-001" />
+            <import-export version="20190331-001" />
+            <notification version="20190331-001" />
+            <separation version="20190331-001" />
+            <upgrade version="20190331-001" />
+        </extras>
+    </release>
+    <release version="20190210-001">
+        <release_date>20190210</release_date>
+        <release_number>001</release_number>
+        <next_release>20190331-001</next_release>
+        <bundle_md5>56f0946ad0b6c63b1b717b6f898c5935</bundle_md5>
+        <installer_md5>35931270de2fd78fa3c2c2bd894afc8e</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20190105-001">
+        <release_date>20190105</release_date>
+        <release_number>001</release_number>
+        <next_release>20190210-001</next_release>
+        <bundle_md5>479b5cfd8543871ff392025ff924e727</bundle_md5>
+        <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20181103-001">
+        <release_date>20181103</release_date>
+        <release_number>001</release_number>
+        <next_release>20190105-001</next_release>
+        <bundle_md5>479b5cfd8543871ff392025ff924e727</bundle_md5>
+        <installer_md5>e375a0c9196a69a831a269e66d68bef6</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180916-001">
+        <release_date>20180916</release_date>
+        <release_number>001</release_number>
+        <next_release>20181103-001</next_release>
+        <bundle_md5>143f634f81c239c28231f3362840f80f</bundle_md5>
+        <installer_md5>0b58ab0a6705affb325dcb9e1ee65e7e</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180830-001">
+        <release_date>20180830</release_date>
+        <release_number>001</release_number>
+        <next_release>20180916-001</next_release>
+        <bundle_md5>a2288a1a6ddc5224918ec743a93491f8</bundle_md5>
+        <installer_md5>5dcba14e7e59d1d51b8a7952262cc076</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180814-001">
+        <release_date>20180814</release_date>
+        <release_number>001</release_number>
+        <next_release>20180830-001</next_release>
+        <bundle_md5>1578e0836c83f5600a94b124c5b34e98</bundle_md5>
+        <installer_md5>e2b25ec67fd9eda08bfb9aaba9275ffa</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180812-001">
+        <release_date>20180812</release_date>
+        <release_number>001</release_number>
+        <next_release>20180814-001</next_release>
+        <bundle_md5>65257e7cfd659a093f26191c88ae0dce</bundle_md5>
+        <installer_md5>96b6fad1b461aae97137639a5d24284b</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180627-001">
+        <release_date>20180627</release_date>
+        <release_number>001</release_number>
+        <next_release>20180812-001</next_release>
+        <bundle_md5>5d81a6dfe62c6d3c5accf5b230a83dbc</bundle_md5>
+        <installer_md5>c2285ca162df1c607317d0f3da16440d</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180527-001">
+        <release_date>20180527</release_date>
+        <release_number>001</release_number>
+        <next_release>20180627-001</next_release>
+        <bundle_md5>098639089879c57b92f39bf93d888cd3</bundle_md5>
+        <installer_md5>571a479dacf4528042b1c71034fb2128</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180301-001">
+        <release_date>20180301</release_date>
+        <release_number>001</release_number>
+        <next_release>20180527-001</next_release>
+        <bundle_md5>4573e61c8c31ae006468e11f13bc069d</bundle_md5>
+        <installer_md5>1cb8d9cb98c0c7457017eecc85d38a4d</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>The SimpleRisk 20180301-001 Release and the Risk Assessment Extra</name>
+            <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180301-001-release-and-the-risk-assessment-extra</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20180104-001">
+        <release_date>20180104</release_date>
+        <release_number>001</release_number>
+        <next_release>20180301-001</next_release>
+        <bundle_md5>80f39f4f778c8fc3b3d4c279e09e1626</bundle_md5>
+        <installer_md5>b6bbf6460b23aa9d659826bf75e47bf2</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>
+            <name>The SimpleRisk 20180104-001 Release and the Future Direction of SimpleRisk</name>
+            <url>https://www.simplerisk.com/product-releases/the-simplerisk-20180104-001-release-and-the-future-direction-of-simplerisk</url>
+        </release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170724-001">
+        <release_date>20170724</release_date>
+        <release_number>001</release_number>
+        <next_release>20180104-001</next_release>
+        <bundle_md5>a2a88b594d59fa0306387d5a66baa998</bundle_md5>
+        <installer_md5>734c87815adda7878e3084758f7ebe3e</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170723-001">
+        <release_date>20170723</release_date>
+        <release_number>001</release_number>
+        <next_release>20170724-001</next_release>
+        <bundle_md5>07507d541e0d88bd762299fcb788ae2f</bundle_md5>
+        <installer_md5>eed21bd826a9be97bcd4235599551ba2</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170614-001">
+        <release_date>20170614</release_date>
+        <release_number>001</release_number>
+        <next_release>20170723-001</next_release>
+        <bundle_md5>7b2689717d6160ac777881dddfa928eb</bundle_md5>
+        <installer_md5>ec3cc27f1de20909d4dd6f0ab78c5105</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170416-001">
+        <release_date>20170416</release_date>
+        <release_number>001</release_number>
+        <next_release>20170614-001</next_release>
+        <bundle_md5>1b9207ebb1f692234e28cac9ccc47ac0</bundle_md5>
+        <installer_md5>cf1b6333dc8d5209dc18572b6e8a7463</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170312-001">
+        <release_date>20170312</release_date>
+        <release_number>001</release_number>
+        <next_release>20170416-001</next_release>
+        <bundle_md5>8ff01b5e0e466bd8ebd8c1f629ac5b85</bundle_md5>
+        <installer_md5>289e1b09108505705460298addff0478</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170108-001">
+        <release_date>20170108</release_date>
+        <release_number>001</release_number>
+        <next_release>20170312-001</next_release>
+        <bundle_md5>4b25deb26cc0ac92da5f341e27974249</bundle_md5>
+        <installer_md5>71788eefadb06224bc321b9fe0961b8b</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20170102-001">
+        <release_date>20170102</release_date>
+        <release_number>001</release_number>
+        <next_release>20170108-001</next_release>
+        <bundle_md5>694357d170cf71156454e731fcf6973a</bundle_md5>
+        <installer_md5>ac1cc64974858bbf6917d9530a50d46c</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20161122-001">
+        <release_date>20161122</release_date>
+        <release_number>001</release_number>
+        <next_release>20170102-001</next_release>
+        <bundle_md5>2c30cb720329926ce16fcc1833f9bd70</bundle_md5>
+        <installer_md5>391743d663730978de24efcd7df8b334</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20161030-001">
+        <release_date>20161030</release_date>
+        <release_number>001</release_number>
+        <next_release>20161122-001</next_release>
+        <bundle_md5>f4b076b072fadcef6b74f7708d106d37</bundle_md5>
+        <installer_md5>c5933e3a8978445a232e136b969a35c0</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20161023-001">
+        <release_date>20161023</release_date>
+        <release_number>001</release_number>
+        <next_release>20161030-001</next_release>
+        <bundle_md5>69471edb76994c049df522d3ef6f3d49</bundle_md5>
+        <installer_md5>74bfd9657f0e763ab7ccbbb61d4cefed</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20160612-001">
+        <release_date>20160612</release_date>
+        <release_number>001</release_number>
+        <next_release>20161023-001</next_release>
+        <bundle_md5>5a22619c0248a32985e3e8d45c21456f</bundle_md5>
+        <installer_md5>0a8881bd6ed29039988a3f3cc148f0fe</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20160331-001">
+        <release_date>20160331</release_date>
+        <release_number>001</release_number>
+        <next_release>20160612-001</next_release>
+        <bundle_md5>9df302c7f2046ed438f3a3331db4e0ac</bundle_md5>
+        <installer_md5>2a5273d015e311823f12976600d31ad4</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20160124-001">
+        <release_date>20160124</release_date>
+        <release_number>001</release_number>
+        <next_release>20160331-001</next_release>
+        <bundle_md5>8511f71ddfcbd6454e247549b3fca594</bundle_md5>
+        <installer_md5>8e92ae5e070e259933d0779a497b9779</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20151219-001">
+        <release_date>20151219</release_date>
+        <release_number>001</release_number>
+        <next_release>20160124-001</next_release>
+        <bundle_md5>2dfd47e3582175293e369aa47f985b1a</bundle_md5>
+        <installer_md5>577db78bb06d8861c3f0f2e90e3824d2</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20151108-001">
+        <release_date>20151108</release_date>
+        <release_number>001</release_number>
+        <next_release>20151219-001</next_release>
+        <bundle_md5>72d3b018b30c58f21e6c212eb0beeb9d</bundle_md5>
+        <installer_md5>1652afd204b09dfdd84e33fd04a7469f</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150930-001">
+        <release_date>20150930</release_date>
+        <release_number>001</release_number>
+        <next_release>20151108-001</next_release>
+        <bundle_md5>4662c639bc3b48ee08de322e81246635</bundle_md5>
+        <installer_md5>b3b6613731f8e8f7e77d692c2d7a9d39</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150928-001">
+        <release_date>20150928</release_date>
+        <release_number>001</release_number>
+        <next_release>20150930-001</next_release>
+        <bundle_md5>9819c4d7e6ca85324bbe6f32b5c14be6</bundle_md5>
+        <installer_md5>622aeedffe9559f5b29b655a0a58be6d</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150920-001">
+        <release_date>20150920</release_date>
+        <release_number>001</release_number>
+        <next_release>20150928-001</next_release>
+        <bundle_md5>ca378f5609c9d687f86c336fafa842a0</bundle_md5>
+        <installer_md5>02d511bb811198f09bcca1acc025c5e7</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150729-001">
+        <release_date>20150729</release_date>
+        <release_number>001</release_number>
+        <next_release>20150920-001</next_release>
+        <bundle_md5>15a869f243cea717b9bf7e4e9648a8b1</bundle_md5>
+        <installer_md5>6bae22be4205e2c89547a891b8d63e8</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150531-001">
+        <release_date>20150531</release_date>
+        <release_number>001</release_number>
+        <next_release>20150729-001</next_release>
+        <bundle_md5>9d11840195e0ad6c22206302c0e10685</bundle_md5>
+        <installer_md5>56c16af9c30dcede9d0f257be6be27a5</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150321-001">
+        <release_date>20150321</release_date>
+        <release_number>001</release_number>
+        <next_release>20150531-001</next_release>
+        <bundle_md5>0ebed68cfbd6b6781f546b62f46917a0</bundle_md5>
+        <installer_md5>6231216942f0c8426a6aedf8172311e6</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20150202-001">
+        <release_date>20150202</release_date>
+        <release_number>001</release_number>
+        <next_release>20150321-001</next_release>
+        <bundle_md5>7ce2e5226cec0917b5400c3a4f5fad5f</bundle_md5>
+        <installer_md5>59c71a7cf73c9d5797610c7916700fa1</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20141214-001">
+        <release_date>20141214</release_date>
+        <release_number>001</release_number>
+        <next_release>20150202-001</next_release>
+        <bundle_md5>9af0d24bbdb557e05e2b41c96d984857</bundle_md5>
+        <installer_md5>8fb9469970cacc1f80d8a01149e3ebdf</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20141129-001">
+        <release_date>20141129</release_date>
+        <release_number>001</release_number>
+        <next_release>20141214-001</next_release>
+        <bundle_md5>ea106fb1cde7576f2ae0bc6a00de9ce7</bundle_md5>
+        <installer_md5>2e7bd107a4e4b11e4b5afc9396f6e0a4</installer_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20141013-001">
+        <release_date>20141013</release_date>
+        <release_number>001</release_number>
+        <next_release>20141129-001</next_release>
+        <bundle_md5>bfb1e350210237907ddb59ccf655649d</bundle_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20140728-001">
+        <release_date>20140728</release_date>
+        <release_number>001</release_number>
+        <next_release>20141013-001</next_release>
+        <bundle_md5>121fc2da48862fd24b08a50200331e83</bundle_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+            <es>true</es>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20140526-001">
+        <release_date>20140526</release_date>
+        <release_number>001</release_number>
+        <next_release>20140728-001</next_release>
+        <bundle_md5>b90f5f49e6524e171087e08cc31c0544</bundle_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20140413-001">
+        <release_date>20140413</release_date>
+        <release_number>001</release_number>
+        <next_release>20140526-001</next_release>
+        <bundle_md5>d7b9a705446ed3882abd1a35f468d465</bundle_md5>
+        <database_schema>
+            <en>true</en>
+            <bp>true</bp>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20140224-001">
+        <release_date>20140224</release_date>
+        <release_number>001</release_number>
+        <next_release>20140413-001</next_release>
+        <bundle_md5>a30bd7fdd115aa938f53ae0d17cea00b</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20131231-001">
+        <release_date>20131231</release_date>
+        <release_number>001</release_number>
+        <next_release>20140224-001</next_release>
+        <bundle_md5>6c923f0aa627c00cf97265584f9dee34</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20131117-001">
+        <release_date>20131117</release_date>
+        <release_number>001</release_number>
+        <next_release>20131231-001</next_release>
+        <bundle_md5>e2f73836cdc1131b4cf475e56a97c486</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20131024-001">
+        <release_date>20131024</release_date>
+        <release_number>001</release_number>
+        <next_release>20131117-001</next_release>
+        <bundle_md5>ff9166be97de6e15a84b7f2405c5b068</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130929-001">
+        <release_date>20130929</release_date>
+        <release_number>001</release_number>
+        <next_release>20131024-001</next_release>
+        <bundle_md5>dc2020dcf68b76065ea6cd11a6f9c2e7</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130916-001">
+        <release_date>20130916</release_date>
+        <release_number>001</release_number>
+        <next_release>20130929-001</next_release>
+        <bundle_md5>b190496e0e41f8e8108dd7aaf65c5394</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130915-001">
+        <release_date>20130915</release_date>
+        <release_number>001</release_number>
+        <next_release>20130916-001</next_release>
+        <bundle_md5>cc94d29a0a60ee48b8d86122eefe66f3</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130827-001">
+        <release_date>20130827</release_date>
+        <release_number>001</release_number>
+        <next_release>20130915-001</next_release>
+        <bundle_md5>7bb71cff30369cc0e18670ff9cc4a73e</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130718-001">
+        <release_date>20130718</release_date>
+        <release_number>001</release_number>
+        <next_release>20130827-001</next_release>
+        <bundle_md5>8b3ffd29cc6ba6daf872ed6cabd2f978</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130501-001">
+        <release_date>20130501</release_date>
+        <release_number>001</release_number>
+        <next_release>20130718-001</next_release>
+        <bundle_md5>7bc6b36c6af4936dc4016048454239a1</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130415-001">
+        <release_date>20130415</release_date>
+        <release_number>001</release_number>
+        <next_release>20130501-001</next_release>
+        <bundle_md5>a0013016ed006c5669e17f075dc3b05f</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>true</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130319-001">
+        <release_date>20130319</release_date>
+        <release_number>001</release_number>
+        <next_release>20130415-001</next_release>
+        <bundle_md5>967707abc2dd6fe2905022992c58e4f3</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
+    <release version="20130315-001">
+        <release_date>20130315</release_date>
+        <release_number>001</release_number>
+        <next_release>20130319-001</next_release>
+        <bundle_md5>6b86f88be9fe892d223b545c31a41b3d</bundle_md5>
+        <database_schema>
+            <en>true</en>
+        </database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>false</extras>
+    </release>
 </releases>
