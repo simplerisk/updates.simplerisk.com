@@ -32,7 +32,7 @@
             <separation version="20221013-001" />
             <ucf version="20221013-001" />
             <upgrade version="20221013-001" />
-            <vulnmgmt version="20221028-001" />
+            <vulnmgmt version="20221103-001" />
         </extras>
     </release>
     <release version="20220909-001">
