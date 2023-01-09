@@ -1,8 +1,37 @@
 <releases>
+    <release version="20230106-001">
+        <release_date>20230106</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>89cb3b4dae2a5c02f6c43d4c063380fa</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20230106-001" />
+            <api version="20230106-001" />
+            <assessments version="20230106-001" />
+            <authentication version="20230106-001" />
+            <complianceforgescf version="20221214-001" />
+            <customization version="20230106-001" />
+            <encryption version="20230106-001" />
+            <import-export version="20230106-001" />
+            <incident_management version="20230106-001" />
+            <jira version="20230106-001" />
+            <notification version="20230106-001" />
+            <organizational_hierarchy version="20230106-001" />
+            <separation version="20230106-001" />
+            <ucf version="20230106-001" />
+            <upgrade version="20230106-001" />
+            <vulnmgmt version="20230106-001" />
+        </extras>
+    </release>
     <release version="20221013-001">
         <release_date>20221013</release_date>
         <release_number>001</release_number>
-        <next_release />
+        <next_release>20230106-001</next_release>
         <bundle_md5>2cedfc5e51c154f8e02b17a6752c4703</bundle_md5>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
@@ -32,7 +61,7 @@
             <separation version="20221013-001" />
             <ucf version="20221013-001" />
             <upgrade version="20221013-001" />
-            <vulnmgmt version="20221013-001" />
+            <vulnmgmt version="20221103-001" />
         </extras>
     </release>
     <release version="20220909-001">
