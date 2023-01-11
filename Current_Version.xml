@@ -1,11 +1,11 @@
 <current_version>
-    <appversion>20230106-001</appversion>
-    <dbversion>20230106-001</dbversion>
+    <appversion>20230110-001</appversion>
+    <dbversion>20230110-001</dbversion>
     <advanced_search>20230106-001</advanced_search>
     <api>20230106-001</api>
     <assessments>20230106-001</assessments>
     <authentication>20230106-001</authentication>
-    <complianceforgescf>20221214-001</complianceforgescf>
+    <complianceforgescf>20230106-001</complianceforgescf>
     <customization>20230106-001</customization>
     <encryption>20230106-001</encryption>
     <importexport>20230106-001</importexport>
