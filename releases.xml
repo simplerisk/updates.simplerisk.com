@@ -28,6 +28,7 @@
             <incident_management version="20230106-001" />
             <jira version="20230106-001" />
             <notification version="20230106-001" />
+            <organizational_hierarchy version="20230117-001" />
             <organizational_hierarchy version="20230106-001" />
             <separation version="20230106-001" />
             <ucf version="20230106-001" />
