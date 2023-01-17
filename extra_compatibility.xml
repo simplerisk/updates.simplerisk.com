@@ -1073,6 +1073,9 @@
         </extra>
     </notification>
     <organizational_hierarchy>
+        <extra version="20230117-001">
+            <appversion>20230106-001</appversion>
+        </extra>
         <extra version="20230106-001">
             <appversion>20230106-001</appversion>
         </extra>
