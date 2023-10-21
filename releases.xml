@@ -19,8 +19,10 @@
         <extras>
             <advanced_search version="20231006-001" />
             <api version="20231006-001" />
+            <assessments version="20231019-001" />
             <assessments version="20231006-001" />
             <authentication version="20231006-001" />
+            <complianceforgescf version="20231019-001" />
             <complianceforgescf version="20231006-001" />
             <customization version="20231006-001" />
             <encryption version="20231006-001" />

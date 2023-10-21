@@ -104,6 +104,9 @@
         </extra>
     </api>
     <assessments>
+        <extra version="20231019-001">
+            <appversion>20231006-001</appversion>
+        </extra>
         <extra version="20231006-001">
             <appversion>20231006-001</appversion>
         </extra>
@@ -360,6 +363,9 @@
         </extra>
     </authentication>
     <complianceforgescf>
+        <extra version="20231019-001">
+            <appversion>20231006-001</appversion>
+        </extra>
         <extra version="20231006-001">
             <appversion>20231006-001</appversion>
         </extra>
