@@ -12,6 +12,7 @@
         <extras>
             <advanced_search version="20231103-001" />
             <api version="20231103-001" />
+            <assessments version="20231106-002" />
             <assessments version="20231106-001" />
             <authentication version="20231103-001" />
             <complianceforgescf version="20231103-001" />
