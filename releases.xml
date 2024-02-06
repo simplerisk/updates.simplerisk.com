@@ -8,7 +8,14 @@
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
         <release_update>false</release_update>
-        <virtual_machines>false</virtual_machines>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>fd3a11c0459deeabc87deee719f9af0e</virtualbox_md5>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>2b963db34bdbd9ca1b27456027c61eae</vmware_md5>
+            </vmware>
+        </virtual_machines>
         <extras>
             <advanced_search version="20240205-001" />
             <api version="20240205-001" />
