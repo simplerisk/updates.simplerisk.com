@@ -1,8 +1,37 @@
 <releases>
+    <release version="20240315-001">
+        <release_date>20240315</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>2e09347f8434e676758a705929977d3f</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20240315-001" />
+            <api version="20240315-001" />
+            <assessments version="20240315-001" />
+            <authentication version="20240315-001" />
+            <complianceforgescf version="20240315-001" />
+            <customization version="20240315-001" />
+            <encryption version="20240315-001" />
+            <import-export version="20240315-001" />
+            <incident_management version="20240315-001" />
+            <jira version="20240315-001" />
+            <notification version="20240315-001" />
+            <organizational_hierarchy version="20240315-001" />
+            <separation version="20240315-001" />
+            <ucf version="20240315-001" />
+            <upgrade version="20240315-001" />
+            <vulnmgmt version="20240315-001" />
+        </extras>
+    </release>
     <release version="20240205-001">
         <release_date>20240205</release_date>
         <release_number>001</release_number>
-        <next_release />
+        <next_release>20240315-001</next_release>
         <bundle_md5>80874e4898838a4dc6847adf29cb962e</bundle_md5>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
