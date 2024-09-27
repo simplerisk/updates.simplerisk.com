@@ -1,5 +1,7 @@
 <upgrade_path>
-    <simplerisk-20240819-001 />
+    <simplerisk-20240923-001 />
+    <simplerisk-20240909-001>20240923-001</simplerisk-20240909-001>
+    <simplerisk-20240819-001>20240909-001</simplerisk-20240819-001>
     <simplerisk-20240818-001>20240819-001</simplerisk-20240818-001>
     <simplerisk-20240726-001>20240818-001</simplerisk-20240726-001>
     <simplerisk-20240603-001>20240726-001</simplerisk-20240603-001>
