@@ -1,8 +1,44 @@
 <releases>
+    <release version="20241209-001">
+        <release_date>20241209</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>fca79ce873b3ac067d1413ef5039f78e</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>d025f8b2b24457a14a2ea2580d33a321</virtualbox_md5>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>ca280d74b2691481c0b1634990b20bcb</vmware_md5>
+            </vmware>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20241209-001" />
+            <api version="20241209-001" />
+            <assessments version="20241209-001" />
+            <authentication version="20241209-001" />
+            <complianceforgescf version="20241209-001" />
+            <customization version="20241209-001" />
+            <encryption version="20241209-001" />
+            <import-export version="20241209-001" />
+            <incident_management version="20241209-001" />
+            <jira version="20241209-001" />
+            <notification version="20241209-001" />
+            <organizational_hierarchy version="20241209-001" />
+            <separation version="20241209-001" />
+            <ucf version="20241209-001" />
+            <upgrade version="20241209-001" />
+            <vulnmgmt version="20241209-001" />
+        </extras>
+    </release>
     <release version="20241113-001">
         <release_date>20241113</release_date>
         <release_number>001</release_number>
-        <next_release />
+        <next_release>20241209-001</next_release>
         <bundle_md5>f13ef85015d5885780544670c28c28fa</bundle_md5>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
