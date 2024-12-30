@@ -19,6 +19,7 @@
         <extras>
             <advanced_search version="20241209-001" />
             <api version="20241209-001" />
+            <artificial_intelligence version="20241209-001" />
             <assessments version="20241209-001" />
             <authentication version="20241209-001" />
             <complianceforgescf version="20241209-001" />
