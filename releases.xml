@@ -1,8 +1,45 @@
 <releases>
+    <release version="20250326-001">
+        <release_date>20250326</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>1a0c5fe521289bbf3bb4c3a70b69b985</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>40e86db64e332c47d7d1e626915dd483</virtualbox_md5>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>fc5bc1a76ff976262d5d372dc175c563</vmware_md5>
+            </vmware>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20250326-001" />
+            <api version="20250326-001" />
+            <artificial_intelligence version="20250326-001" />
+            <assessments version="20250326-001" />
+            <authentication version="20250326-001" />
+            <complianceforgescf version="20250326-001" />
+            <customization version="20250326-001" />
+            <encryption version="20250326-001" />
+            <import-export version="20250326-001" />
+            <incident_management version="20250326-001" />
+            <jira version="20250326-001" />
+            <notification version="20250326-001" />
+            <organizational_hierarchy version="20250326-001" />
+            <separation version="20250326-001" />
+            <ucf version="20250326-001" />
+            <upgrade version="20250326-001" />
+            <vulnmgmt version="20250326-001" />
+        </extras>
+    </release>
     <release version="20241209-001">
         <release_date>20241209</release_date>
         <release_number>001</release_number>
-        <next_release />
+        <next_release>20250326-001</next_release>
         <bundle_md5>fca79ce873b3ac067d1413ef5039f78e</bundle_md5>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
