@@ -1,14 +1,51 @@
 <releases>
-    <release version="20251118-001">
-        <release_date>20251118</release_date>
+    <release version="20260224-001">
+        <release_date>20260224</release_date>
         <release_number>001</release_number>
         <next_release />
-        <bundle_md5>e8cb3f3aab42239d959da94bbbeb134d</bundle_md5>
+        <bundle_md5>7409c2b8e154f138fba022384ec263ba</bundle_md5>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
         <release_update>false</release_update>
         <virtual_machines>false</virtual_machines>
+        <extras>
+            <advanced_search version="20260224-001" />
+            <api version="20260224-001" />
+            <artificial_intelligence version="20260224-001" />
+            <assessments version="20260224-001" />
+            <authentication version="20260224-001" />
+            <complianceforgescf version="20260224-001" />
+            <customization version="20260224-001" />
+            <encryption version="20260224-001" />
+            <import-export version="20260224-001" />
+            <incident_management version="20260224-001" />
+            <jira version="20260224-001" />
+            <notification version="20260224-001" />
+            <organizational_hierarchy version="20260224-001" />
+            <separation version="20260224-001" />
+            <ucf version="20260224-001" />
+            <upgrade version="20260224-001" />
+            <vulnmgmt version="20260224-001" />
+        </extras>
+    </release>
+    <release version="20251118-001">
+        <release_date>20251118</release_date>
+        <release_number>001</release_number>
+        <next_release>20260224-001</next_release>
+        <bundle_md5>e8cb3f3aab42239d959da94bbbeb134d</bundle_md5>
+        <installer_md5>false</installer_md5>
+        <database_schema>false</database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>38bf1c926745c8acf98fdacf6f5c47b2</virtualbox_md5>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>e6add9c5f1591935721aaed2ec655044</vmware_md5>
+            </vmware>
+        </virtual_machines>
         <extras>
             <advanced_search version="20251118-001" />
             <api version="20251118-001" />
