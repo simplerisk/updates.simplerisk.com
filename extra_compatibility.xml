@@ -641,6 +641,9 @@
         </extra>
     </authentication>
     <complianceforgescf>
+        <extra version="20260524-001">
+            <appversion>20260519-001</appversion>
+        </extra>
         <extra version="20260519-001">
             <appversion>20260519-001</appversion>
         </extra>
