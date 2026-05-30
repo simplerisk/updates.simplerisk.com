@@ -1,0 +1,44 @@
+name: Mirror updates manifests to S3
+on:
+  push:
+    branches: [updates.simplerisk.com, updates-test.simplerisk.com]
+
+permissions:
+  id-token: write   # for OIDC
+  contents: read
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve channel prefix from branch
+        env:
+          REF_NAME: ${{ github.ref_name }}
+        run: |
+          set -euo pipefail
+          if [ "$REF_NAME" = "updates.simplerisk.com" ]; then
+            echo "PREFIX=latest/updates/" >> "$GITHUB_ENV"
+          elif [ "$REF_NAME" = "updates-test.simplerisk.com" ]; then
+            echo "PREFIX=testing/updates/" >> "$GITHUB_ENV"
+          else
+            echo "Unexpected branch: $REF_NAME" >&2
+            exit 1
+          fi
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.UPDATES_PUBLISHER_ROLE_ARN }}
+          aws-region: ${{ vars.AWS_REGION }}
+
+      - name: Upload manifests
+        env:
+          EXTRAS_BUCKET: ${{ vars.EXTRAS_BUCKET }}
+        run: |
+          set -euo pipefail
+          for f in releases.xml Current_Version.xml upgrade_path.xml announcements.xml extra_compatibility.xml; do
+            aws s3 cp "$f" "s3://$EXTRAS_BUCKET/${PREFIX}${f}" \
+              --content-type "text/xml" --no-progress
+          done
