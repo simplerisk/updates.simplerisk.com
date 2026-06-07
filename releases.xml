@@ -3,8 +3,8 @@
         <release_date>20260519</release_date>
         <release_number>001</release_number>
         <next_release />
-        <bundle_md5>0405184f8a258e413e44e0557872e3f2</bundle_md5>
-        <bundle_sha256>f586dde4987ea9ac28c4e16303ee845238a0a4218521afe4e16d33f04e86de03</bundle_sha256>
+        <bundle_md5>bd345894ec2061b07618a5cd5a778e3a</bundle_md5>
+        <bundle_sha256>036f48b3bd4dfa22e78a204e5e19d0a682e76383df58f235e32932fa147f9c5a</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
@@ -36,6 +36,7 @@
             <upgrade version="20260604-001" />
             <upgrade version="20260519-001" />
             <vulnmgmt version="20260519-001" />
+            <workflows version="20260519-001" />
         </extras>
     </release>
     <release version="20260422-001">
