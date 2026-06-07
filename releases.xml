@@ -4,6 +4,7 @@
         <release_number>001</release_number>
         <next_release />
         <bundle_md5>e8c049832041864bfa1f629183b732d2</bundle_md5>
+        <bundle_sha256>7d7fb24214081ef5e51480664d29f084ca6e8e93990fe9da2c957ea1dfff1bb4</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
