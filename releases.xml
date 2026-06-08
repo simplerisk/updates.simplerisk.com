@@ -3,8 +3,8 @@
         <release_date>20260519</release_date>
         <release_number>001</release_number>
         <next_release />
-        <bundle_md5>292975282c3b66c8286251b0c1e0b800</bundle_md5>
-        <bundle_sha256>290546adb898e35f44c233d37d04b48c19a75793b834646e943bd7357e5695b3</bundle_sha256>
+        <bundle_md5>81c62ad3a2be5290c8bd6125e137740d</bundle_md5>
+        <bundle_sha256>e9b73330a1b9486088767f9512623708e42b4ff2d375b13d025d225cb02c1e31</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
