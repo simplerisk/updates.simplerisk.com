@@ -65,10 +65,10 @@
         <release_update>false</release_update>
         <virtual_machines>
             <virtualbox>
-                <virtualbox_md5>35da9578cc910f4396b624c1be6f6e9c</virtualbox_md5>
+                <virtualbox_md5>c63fae02b2ffbb09c194b6d10fd46639</virtualbox_md5>
             </virtualbox>
             <vmware>
-                <vmware_md5>249a1bf719fe8ce757bac6fdfb8d5470</vmware_md5>
+                <vmware_md5>4f111a49ab5d22fd26d1edc0e90f8c0c</vmware_md5>
             </vmware>
         </virtual_machines>
         <extras>
