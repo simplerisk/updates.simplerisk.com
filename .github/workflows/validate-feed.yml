@@ -1,0 +1,61 @@
+name: Validate feed
+
+# The feed is a set of CLAIMS about published artifacts, and until now nothing
+# checked them. On 2026-08-21 a merge of the updates-test branch into this one
+# replaced the GA bundle checksums with the testing channel's, and added upgrade
+# hops through releases that never shipped. Nothing here went red; the break
+# surfaced hours later in simplerisk/docker, whose image build verifies the
+# bundle against this feed and fails closed.
+#
+# This asserts the claims against the channel the branch describes:
+#   - every manifest parses (and carries no DTD)
+#   - Current_Version names a release that exists and publishes a checksum
+#   - every release publishing a bundle_sha256 has a bundle that is actually
+#     fetchable on this channel, hashing to exactly that value
+#   - upgrade_path only routes to releases that exist, and agrees with the
+#     per-release next_release
+#
+# Cheap by construction: only the handful of currently-served releases publish a
+# checksum, so this downloads two bundles, not a hundred.
+#
+# Make this a REQUIRED status check on both feed branches — it is the control
+# that catches a bad write regardless of how it arrived (branch merge, hand
+# edit, or a broken generator run).
+
+on:
+  pull_request:
+    branches: [updates.simplerisk.com, updates-test.simplerisk.com]
+  push:
+    branches: [updates.simplerisk.com, updates-test.simplerisk.com]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-feed-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate_feed:
+    name: Validate feed against its channel
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve channel from the target branch
+        env:
+          # On a PR this must be the BASE branch: the head is a topic branch
+          # whose name says nothing about which channel it will land on.
+          TARGET: ${{ github.event_name == 'pull_request' && github.base_ref || github.ref_name }}
+        run: |
+          set -euo pipefail
+          case "$TARGET" in
+            updates.simplerisk.com)      echo "CHANNEL=prod" >> "$GITHUB_ENV" ;;
+            updates-test.simplerisk.com) echo "CHANNEL=test" >> "$GITHUB_ENV" ;;
+            *) echo "::error::unexpected target branch '$TARGET'"; exit 1 ;;
+          esac
+          echo "validating against the $TARGET channel"
+
+      - name: Validate
+        run: python3 scripts/validate_feed.py "$CHANNEL"
