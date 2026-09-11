@@ -63,15 +63,15 @@
         <database_schema>
             <en>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-en-20260909-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>ef26521086ac7223c5b94e5d9923fbfc7febd742fc0cee804b9de689f542b154</sha256>
             </en>
             <es>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-es-20260909-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>0fd4da6cac349cefcb7bf8d2b57f8cec65cca4bcc299d5f090689da0dfb97899</sha256>
             </es>
             <bp>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-bp-20260909-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>0c2ee36694517cc8def49f5f21c6411713bfd54d3a8c5822db1a076b6b2ea8ae</sha256>
             </bp>
         </database_schema>
         <release_notes>false</release_notes>
