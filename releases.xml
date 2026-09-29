@@ -9,15 +9,15 @@
         <database_schema>
             <en>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-en-20260917-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>d2d3f6581f1fa124b70d2fc604173ae21f0828587c56afb82a1fbb0ba73974d5</sha256>
             </en>
             <es>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-es-20260917-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>92d3520c96337d81a9161a954075d354a88babe46be32aae0a80bb5dc1f6c63c</sha256>
             </es>
             <bp>
                 <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-bp-20260917-001.sql</url>
-                <sha256>false</sha256>
+                <sha256>ff488983bdde5a06fc521ebf90a2d80531d10c7daced53f6082122a60b51f1f2</sha256>
             </bp>
         </database_schema>
         <release_notes>false</release_notes>
