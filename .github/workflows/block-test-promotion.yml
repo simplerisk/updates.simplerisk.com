@@ -1,0 +1,44 @@
+name: Block test-branch promotion
+
+# updates-test.simplerisk.com and updates.simplerisk.com are NOT meant to
+# converge. They differ on purpose:
+#   - the testing pipeline retracts unpromoted RCs, keeps their upgrade hops, and
+#     blanks bundle_sha256 for bundles the test channel no longer serves;
+#   - the prod feed has a single writer (update_feeds.sh in sync_code_repo.yml)
+#     that records the real GA asset hashes.
+# Merging the test branch into prod therefore replaces GA truth with RC truth.
+# That happened on 2026-08-21 (#140, fixed by #141) and was attempted again in
+# #144; simplerisk/docker fails closed on the resulting checksum mismatch.
+#
+# Validate feed catches some of the damage after the fact. This refuses the
+# promotion path itself. To change the prod feed by hand (VM digests, a fix),
+# use a topic branch off updates.simplerisk.com, as #139 and #145 did.
+#
+# Make this a REQUIRED status check on the prod ruleset only. It only runs on PRs
+# into prod, so it must not be required on the test branch. Admins can still
+# bypass a required check; that is a deliberate act, not an accident.
+
+on:
+  pull_request:
+    branches: [updates.simplerisk.com]
+
+permissions:
+  contents: read
+
+jobs:
+  block_test_promotion:
+    name: Block test-branch promotion into prod
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refuse a head branch that is the test feed
+        env:
+          HEAD_REF: ${{ github.head_ref }}
+          HEAD_REPO: ${{ github.event.pull_request.head.repo.full_name }}
+          BASE_REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          if [ "$HEAD_REPO" = "$BASE_REPO" ] && [ "$HEAD_REF" = "updates-test.simplerisk.com" ]; then
+            echo "::error title=Do not promote the test feed::This PR merges updates-test.simplerisk.com into the prod feed, which would overwrite GA bundle checksums and add upgrade hops for RCs that never shipped. Open a topic branch off updates.simplerisk.com containing only the change you need (see README.md)."
+            exit 1
+          fi
+          echo "head '$HEAD_REF' is not the test feed branch"
