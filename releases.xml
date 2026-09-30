@@ -58,7 +58,7 @@
         <release_number>001</release_number>
         <next_release>20260917-001</next_release>
         <bundle_md5>ca2355f0f0638ab4b1eae9991a9535d4</bundle_md5>
-        <bundle_sha256>a1cd6178f1aba2c839c72235d68ece215bd0ca01296ceb2de569f51cc03ed976</bundle_sha256>
+        <bundle_sha256>false</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>
             <en>
@@ -112,7 +112,7 @@
         <release_number>001</release_number>
         <next_release>20260909-001</next_release>
         <bundle_md5>d08deaff571bd4c53ccce9269a517739</bundle_md5>
-        <bundle_sha256>4a2b833298398a4b5ae010008a858e01d0f4fefb647d3fc1fc711575157e9b9b</bundle_sha256>
+        <bundle_sha256>false</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>
             <en>
@@ -166,7 +166,7 @@
         <release_number>001</release_number>
         <next_release>20260828-001</next_release>
         <bundle_md5>9b639134c80d1eee1f8c86355f9c6c68</bundle_md5>
-        <bundle_sha256>3e27941634b3791a17e9f498ea992dc1f2c7aa566e201a8aec6e148120429ecf</bundle_sha256>
+        <bundle_sha256>false</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>
             <en>
@@ -220,7 +220,7 @@
         <release_number>001</release_number>
         <next_release>20260820-001</next_release>
         <bundle_md5>e8c049832041864bfa1f629183b732d2</bundle_md5>
-        <bundle_sha256>7d7fb24214081ef5e51480664d29f084ca6e8e93990fe9da2c957ea1dfff1bb4</bundle_sha256>
+        <bundle_sha256>false</bundle_sha256>
         <installer_md5>false</installer_md5>
         <database_schema>false</database_schema>
         <release_notes>false</release_notes>
