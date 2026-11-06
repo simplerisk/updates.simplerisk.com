@@ -1,8 +1,61 @@
 <releases>
+    <release version="20261105-001">
+        <release_date>20261105</release_date>
+        <release_number>001</release_number>
+        <next_release />
+        <bundle_md5>7ab5d1bedeedcef17d2609714310d9cb</bundle_md5>
+        <bundle_sha256>d8b020b13640342b101d77f49e73ef3d85a8eac5b873f9ef0da2311351d43d5a</bundle_sha256>
+        <installer_md5>false</installer_md5>
+        <database_schema>
+            <en>
+                <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-en-20261105-001.sql</url>
+                <sha256>bc1128620e99c093047109673640783cdc358634e40ad8f545e78c2e02e1a7cf</sha256>
+            </en>
+            <es>
+                <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-es-20261105-001.sql</url>
+                <sha256>0d76dbfdd4da49d3ef05b922f57e1d5ccc57c9161b676b13b73a3225dc79548a</sha256>
+            </es>
+            <bp>
+                <url>https://raw.githubusercontent.com/simplerisk/database/master/simplerisk-bp-20261105-001.sql</url>
+                <sha256>fb14a07340132bf068b317355dbac47720d304278900b52c8baee92bca9a8c59</sha256>
+            </bp>
+        </database_schema>
+        <release_notes>false</release_notes>
+        <release_update>false</release_update>
+        <virtual_machines>
+            <virtualbox>
+                <virtualbox_md5>false</virtualbox_md5>
+                <virtualbox_sha256>false</virtualbox_sha256>
+            </virtualbox>
+            <vmware>
+                <vmware_md5>false</vmware_md5>
+                <vmware_sha256>false</vmware_sha256>
+            </vmware>
+        </virtual_machines>
+        <extras>
+            <advanced_search version="20261105-001" />
+            <api version="20261105-001" />
+            <artificial_intelligence version="20261105-001" />
+            <assessments version="20261105-001" />
+            <authentication version="20261105-001" />
+            <complianceforgescf version="20261105-001" />
+            <customization version="20261105-001" />
+            <encryption version="20261105-001" />
+            <import-export version="20261105-001" />
+            <incident_management version="20261105-001" />
+            <jira version="20261105-001" />
+            <notification version="20261105-001" />
+            <organizational_hierarchy version="20261105-001" />
+            <separation version="20261105-001" />
+            <upgrade version="20261105-001" />
+            <vulnmgmt version="20261105-001" />
+            <workflows version="20261105-001" />
+        </extras>
+    </release>
     <release version="20261020-001">
         <release_date>20261020</release_date>
         <release_number>001</release_number>
-        <next_release />
+        <next_release>20261105-001</next_release>
         <bundle_md5>dc4b639e0eee18ae541ccadfd6c3f342</bundle_md5>
         <bundle_sha256>efd57a7494a05df86114236d2f9769b96437e37388b6ea0456b6dd2cf0c93791</bundle_sha256>
         <installer_md5>false</installer_md5>
