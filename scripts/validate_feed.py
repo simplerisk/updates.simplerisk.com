@@ -186,6 +186,15 @@ def main() -> int:
         want = rel[v]["sha256"]
         url = BUNDLE_URL[channel].format(v=v)
         blob, why = fetch(url)
+        if blob is None and channel == "test" and v != current:
+            # The testing channel serves only the build it is currently testing
+            # (bundles-test is pruned to the current bundle), so a superseded
+            # release that still carries its hash is expected to be absent
+            # there. Its bundle is checked on the prod channel, which keeps
+            # every release. A bundle that IS served must still match, and the
+            # current release must always be present.
+            note(f"SKIP {v} bundle is not on the test channel ({why}); the test channel serves only the current release")
+            continue
         if blob is None:
             err(f"{v} publishes a bundle_sha256 but its bundle is not fetchable "
                 f"on the {channel} channel ({why}): {url}")
