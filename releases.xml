@@ -24,12 +24,12 @@
         <release_update>false</release_update>
         <virtual_machines>
             <virtualbox>
-                <virtualbox_md5>false</virtualbox_md5>
-                <virtualbox_sha256>false</virtualbox_sha256>
+                <virtualbox_md5>24f6a611afc09510a3befef463213a64</virtualbox_md5>
+                <virtualbox_sha256>8b38a153350c1f97f5d0b09bd9c38726460ddd0d95083fb75e38cdfe51083ccc</virtualbox_sha256>
             </virtualbox>
             <vmware>
-                <vmware_md5>false</vmware_md5>
-                <vmware_sha256>false</vmware_sha256>
+                <vmware_md5>4e3a2932d0d19fbdce6c811e3f4ab423</vmware_md5>
+                <vmware_sha256>d57f8e5affacd1c177808227f25561a5e79c41c7f820b67d5bfe7fba41a71105</vmware_sha256>
             </vmware>
         </virtual_machines>
         <extras>
